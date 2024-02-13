@@ -107,7 +107,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="HKS" tvg-name="HKS" tvg-logo="https://live.fanmingming.com/tv/香港卫视.png" group-title="港澳",HKS
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南4K.png" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南4K.png" group-title="卫视",河南4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png" group-title="卫视",河南卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227198/index.m3u8
@@ -173,7 +173,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227214/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227236/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视",陕西卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227216/index.m3u8
-#EXTINF:-1,tvg-id="农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视",陕西农林卫视
+#EXTINF:-1,tvg-id="农林卫视" tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.com/tv/农林卫视.png" group-title="卫视",农林卫视
 http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 #EXTINF:-1,tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://live.fanmingming.com/tv/安多卫视.png" group-title="卫视",安多卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
@@ -191,7 +191,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227253/index.m3u8
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
 http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
-#EXTINF:-1 tvg-id="导视" tvg-name="导视" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/导视.png" group-title="河南",导视
+#EXTINF:-1 tvg-id="导视" tvg-name="导视" tvg-logo="https://live.lizanyang.top/tv/导视.png" group-title="河南",导视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南4K.png" group-title="河南",河南4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
@@ -213,7 +213,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227270/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226724/index.m3u8
 #EXTINF:-1 tvg-id="河南乡村" tvg-name="河南乡村" tvg-logo="https://live.fanmingming.com/tv/河南乡村.png" group-title="河南",河南乡村
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226576/index.m3u8
-#EXTINF:-1 tvg-id="移动电视" tvg-name="移动电视" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/移动电视.png" group-title="河南",河南移动电视
+#EXTINF:-1 tvg-id="移动电视" tvg-name="移动电视" tvg-logo="https://live.lizanyang.top/tv/移动电视.png" group-title="河南",河南移动电视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226871/index.m3u8
 #EXTINF:-1 tvg-id="移动戏曲" tvg-name="移动戏曲" tvg-logo="https://live.fanmingming.com/tv/移动戏曲.PNG" group-title="河南",移动戏曲
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226628/index.m3u8
@@ -227,7 +227,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226638/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226589/index.m3u8
 #EXTINF:-1 tvg-id="国学" tvg-name="国学" tvg-logo="https://live.fanmingming.com/tv/国学.png" group-title="河南",国学
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226629/index.m3u8
-#EXTINF:-1 tvg-id="健康中原" tvg-name="健康中原" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/健康中原.png" group-title="河南",健康中原
+#EXTINF:-1 tvg-id="健康中原" tvg-name="健康中原" tvg-logo="https://live.lizanyang.top/tv/健康中原.png" group-title="河南",健康中原
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227110/index.m3u8
 #EXTINF:-1 tvg-id="欢腾频道" tvg-name="河南欢腾购物" tvg-logo="https://live.fanmingming.com/tv/欢腾购物.png" group-title="河南",河南欢腾购物
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226641/index.m3u8
@@ -297,15 +297,15 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 
 
-#EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/直播中国.png" group-title="数字",直播中国
+#EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://live.lizanyang.top/tv/直播中国.png" group-title="数字",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字",重温经典
 https://pi.0472.org/gdtv/1463.m3u8
 #EXTINF:-1 tvg-id="电影4K测试" tvg-name="电影4K测试" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字",华数爱上4K
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/真4K.png" group-title="数字",4K修复
+#EXTINF:-1 tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://live.lizanyang.top/tv/真4K.png" group-title="数字",4K修复
 http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/黑龙江影视.png" group-title="数字",黑龙江影视
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.lizanyang.top/tv/黑龙江影视.png" group-title="数字",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="苏州4K" tvg-name="苏州4K" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="数字",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -323,15 +323,15 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://live.fanmingming.com/tv/黑莓动画.png" group-title="数字",黑莓动画
 http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1,tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/咪咕视频2.png" group-title="数字",咪咕视频1
+#EXTINF:-1,tvg-id="咪咕视频1" tvg-name="咪咕视频1" tvg-logo="https://live.lizanyang.top/tv/咪咕视频2.png" group-title="数字",咪咕视频1
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1,tvg-id="咪咕视频2" tvg-name="咪咕视频2" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/咪咕视频2.png" group-title="数字",咪咕视频2
+#EXTINF:-1,tvg-id="咪咕视频2" tvg-name="咪咕视频2" tvg-logo="https://live.lizanyang.top/tv/咪咕视频2.png" group-title="数字",咪咕视频2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1,tvg-id="咪咕视频3" tvg-name="咪咕视频3" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/咪咕视频2.png" group-title="数字",咪咕视频3
+#EXTINF:-1,tvg-id="咪咕视频3" tvg-name="咪咕视频3" tvg-logo="https://live.lizanyang.top/tv/咪咕视频2.png" group-title="数字",咪咕视频3
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1,tvg-id="咪咕视频4" tvg-name="咪咕视频4" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/咪咕视频2.png" group-title="数字",咪咕视频4
+#EXTINF:-1,tvg-id="咪咕视频4" tvg-name="咪咕视频4" tvg-logo="https://live.lizanyang.top/tv/咪咕视频2.png" group-title="数字",咪咕视频4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
-#EXTINF:-1,tvg-id="咪咕视频5" tvg-name="咪咕视频5" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/咪咕视频2.png" group-title="数字",咪咕视频5
+#EXTINF:-1,tvg-id="咪咕视频5" tvg-name="咪咕视频5" tvg-logo="https://live.lizanyang.top/tv/咪咕视频2.png" group-title="数字",咪咕视频5
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 #EXTINF:-1 tvg-id="NEWTV精彩综艺" tvg-name="NEWTV精彩综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺.png" group-title="NewTV系列",NEWTV精彩综艺
@@ -368,19 +368,19 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 #EXTINF:-1 tvg-id="NEWTV欢乐剧场" tvg-name="NEWTV欢乐剧场" tvg-logo="https://live.fanmingming.com/tv/NEWTV欢乐剧场.png" group-title="NewTV系列",NEWTV欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 tvg-id="NEWTV魅力潇湘" tvg-name="NEWTV魅力潇湘" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/NEWTV魅力潇湘.png" group-title="NewTV系列",NEWTV魅力潇湘
+#EXTINF:-1 tvg-id="NEWTV魅力潇湘" tvg-name="NEWTV魅力潇湘" tvg-logo="https://live.lizanyang.top/tv/NEWTV魅力潇湘.png" group-title="NewTV系列",NEWTV魅力潇湘
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000041/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000041&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/NEWTV精品萌宠.png" group-title="NewTV系列",NEWTV精品萌宠
+#EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://live.lizanyang.top/tv/NEWTV精品萌宠.png" group-title="NewTV系列",NEWTV精品萌宠
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000067/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000067&livemode=1&stbId=3
 
 
-#EXTINF:-1 tvg-id="华数欧美影院" tvg-name="华数欧美影院" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="iTV",华数欧美影院
+#EXTINF:-1 tvg-id="华数欧美影院" tvg-name="华数欧美影院" tvg-logo="https://live.lizanyang.top/tv/华数.png" group-title="iTV",华数欧美影院
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="华数电子竞技" tvg-name="华数电子竞技" tvg-logo="https://live.fanmingming.com/tv/电子竞技.png" group-title="iTV",华数电子竞技
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000011654/index.m3u8?channel-id=wasusyt&Contentid=6000000003000011654&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://live.fanmingming.com/tv/高清娱乐.png" group-title="iTV",华数高清娱乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/精彩影视.png" group-title="iTV",华数精彩影视
+#EXTINF:-1 tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://live.lizanyang.top/tv/精彩影视.png" group-title="iTV",华数精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="华数漫游世界" tvg-name="华数漫游世界" tvg-logo="https://live.fanmingming.com/tv/漫游世界.png" group-title="iTV",华数漫游世界
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
@@ -684,7 +684,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
 #EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="综艺动漫",求索动物
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-#EXTINF:-1 tvg-id="百姓调解" tvg-name="百姓调解" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/百姓调解.png" group-title="综艺动漫",百姓调解
+#EXTINF:-1 tvg-id="百姓调解" tvg-name="百姓调解" tvg-logo="https://live.lizanyang.top/tv/百姓调解.png" group-title="综艺动漫",百姓调解
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226581/index.m3u8
 #EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="综艺动漫",上海纪实
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -724,9 +724,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226698/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226666/index.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/金鹰纪实.png" group-title="综艺动漫",金鹰纪实
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
-#EXTINF:-1 tvg-id="美食汇" tvg-name="美食汇" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/美食汇.png" group-title="综艺动漫",美食汇
+#EXTINF:-1 tvg-id="美食汇" tvg-name="美食汇" tvg-logo="https://live.lizanyang.top/tv/美食汇.png" group-title="综艺动漫",美食汇
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226702/index.m3u8
-#EXTINF:-1 tvg-id="棋牌汇" tvg-name="棋牌汇" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/棋牌汇.png" group-title="综艺动漫",棋牌汇
+#EXTINF:-1 tvg-id="棋牌汇" tvg-name="棋牌汇" tvg-logo="https://live.lizanyang.top/tv/棋牌汇.png" group-title="综艺动漫",棋牌汇
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226602/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://live.fanmingming.com/tv/SITV都市剧场.png" group-title="综艺动漫",都市剧场
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
