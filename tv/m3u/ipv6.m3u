@@ -382,7 +382,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000011654/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000001569/index.m3u8?channel-id=wasusyt&Contentid=6000000003000001569&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="华数精彩影视" tvg-name="华数精彩影视" tvg-logo="https://raw.githubusercontent.com/lizanyang3/m3u/main/logo/精彩影视.png" group-title="iTV",华数精彩影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="华数探索纪录" tvg-name="华数探索纪录" tvg-logo="https://live.fanmingming.com/tv/漫游世界.png" group-title="iTV",华数探索纪录
+#EXTINF:-1 tvg-id="华数漫游世界" tvg-name="华数漫游世界" tvg-logo="https://live.fanmingming.com/tv/漫游世界.png" group-title="iTV",华数漫游世界
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="名师公开课" tvg-name="名师公开课" tvg-logo="https://live.fanmingming.com/tv/名师公开课.png" group-title="iTV",名师公开课
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000023702/index.m3u8?channel-id=wasusyt&Contentid=6000000003000023702&livemode=1&stbId=3
