@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>在线TXT转M3U格式 - lzy</title>
+  <meta name="description" content="一个简单的在线TXT转M3U格式工具，纯前端处理，无需上传txt文件粘贴即转换，安全不偷源。">
+  <meta name="keywords" content="txt转m3u,txt转换,m3u生成,lzy,LIVE">
+  <style>
+    body {
+      text-align: center;
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      margin: 0;
+      padding: 0;
+    }
+    h2 {
+      color: #333;
+    }
+    #inputContainer {
+      margin-top: 10px;
+    }
+    label {
+      display: block;
+      margin-bottom: 5px;
+      color: #666;
+    }
+    textarea, #m3uOutput {
+      width: 800px;
+      height: 368px;
+      box-sizing: border-box;
+      padding: 10px;
+      margin-top: 5px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      font-size: 12px;
+    }
+    button {
+      margin-top: 10px;
+      padding: 10px 10px;
+      font-size: 14px;
+      cursor: pointer;
+      background-color: #4CAF50;
+      color: white;
+      border: none;
+      border-radius: 5px;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #m3uOutput {
+      margin-top: 5px;
+      background-color: #fff;
+      color: #333;
+    }
+    #copyright {
+      margin-top: 20px;
+      color: #666;
+      font-size: 12px;
+    }
+  </style>
+</head>
+<body>
+  <h2>在线TXT转M3U格式</h2>
+     <h3>TXT格式源:</h3>
+  <div id="inputContainer">
+    <textarea id="txtInput" rows="10" cols="80"></textarea>
+  </div>
+  <button onclick="convertToM3U()">转换格式</button>
+  <button onclick="clearScreen()">清除屏幕</button>
+  <button onclick="copyContent()">拷贝结果</button>
+  <button onclick="saveAsM3U()">保存m3u</button>
+  <h3>M3U格式转换结果:</h3>
+  <textarea id="m3uOutput" rows="10" cols="80" readonly></textarea>
+  <div id="copyright">
+    <p>© 2023 live.fanmingming.com All Rights Reserved.</p>
+  </div>
+  <script>
+    function convertToM3U() {
+      const txtInput = document.getElementById('txtInput').value;
+      const lines = txtInput.split('\n');
+      let m3uOutput = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"\n';
+      let currentGroup = null;
+      for (const line of lines) {
+        const trimmedLine = line.trim();
+        if (trimmedLine !== '') {
+          if (trimmedLine.includes('#genre#')) {
+            currentGroup = trimmedLine.replace(/,#genre#/, '').trim();
+          } else {
+            const [originalChannelName, channelLink] = trimmedLine.split(',').map(item => item.trim());
+            const processedChannelName = originalChannelName.replace(/(CCTV|CETV)-(\d+).*/, '$1$2');
+            m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://live.fanmingming.com/tv/${processedChannelName}.png"`;
+            if (currentGroup) {
+              m3uOutput += ` group-title="${currentGroup}"`;
+            }
+            m3uOutput += `,${originalChannelName}\n${channelLink}\n`;
+          }
+        }
+      }
+      document.getElementById('m3uOutput').value = m3uOutput;
+    }
+    function clearScreen() {
+      document.getElementById('txtInput').value = '';
+      document.getElementById('m3uOutput').value = '';
+    }
+    function copyContent() {
+      const m3uOutput = document.getElementById('m3uOutput');
+      m3uOutput.select();
+      document.execCommand('copy');
+      alert('内容已复制到剪贴板！');
+    }
+    function saveAsM3U() {
+      const m3uContent = document.getElementById('m3uOutput').value;
+      const blob = new Blob([m3uContent], { type: 'text/plain' });
+      const a = document.createElement('a');
+      a.href = URL.createObjectURL(blob);
+      a.download = 'playlist.m3u';
+      document.body.appendChild(a);
+      a.click();
+      document.body.removeChild(a);
+    }
+  </script>
+</body>
+</html>
