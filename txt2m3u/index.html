@@ -73,13 +73,13 @@
   <h3>M3U格式转换结果:</h3>
   <textarea id="m3uOutput" rows="10" cols="80" readonly></textarea>
   <div id="copyright">
-    <p>© 2023 live.fanmingming.com All Rights Reserved.</p>
+    <p>© 2023 live.lizanyang.top All Rights Reserved.</p>
   </div>
   <script>
     function convertToM3U() {
       const txtInput = document.getElementById('txtInput').value;
       const lines = txtInput.split('\n');
-      let m3uOutput = '#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"\n';
+      let m3uOutput = '#EXTM3U x-tvg-url="https://live.lizanyang.top/e.xml"\n';
       let currentGroup = null;
       for (const line of lines) {
         const trimmedLine = line.trim();
@@ -89,7 +89,7 @@
           } else {
             const [originalChannelName, channelLink] = trimmedLine.split(',').map(item => item.trim());
             const processedChannelName = originalChannelName.replace(/(CCTV|CETV)-(\d+).*/, '$1$2');
-            m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://live.fanmingming.com/tv/${processedChannelName}.png"`;
+            m3uOutput += `#EXTINF:-1 tvg-name="${processedChannelName}" tvg-logo="https://live.lizanyang.top/tv/${processedChannelName}.png"`;
             if (currentGroup) {
               m3uOutput += ` group-title="${currentGroup}"`;
             }
