@@ -45,7 +45,7 @@
 - 📆**EPG接口地址**：
   -  [https://live.lizanyang.top/e.xml](https://live.lizanyang.top/e.xml)
 - 🏞️**Bing每日图片**：
-  -  [https://live.lizanyang.top/bing](https://fanmingming.com/bing)
+  -  [https://live.lizanyang.top/bing](https://live.lizanyang.top/bing)
 - 🎞️**m3u8下载工具**：
   -  [https://live.lizanyang.top/m3u8](https://live.lizanyang.top/m3u8)
 - 🆕**TXT转M3U格式**：
