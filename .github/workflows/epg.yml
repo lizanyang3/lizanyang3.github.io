@@ -13,8 +13,8 @@ jobs:
     - name: EPG Update
       run: |
         rm -f e.xml && wget https://epg.112114.xyz/pp.xml -O e.xml
-        git config --global user.name fanmingming
-        git config --global user.email mingming@live.com
+        git config --global user.name lizanyng
+        git config --global user.email live.lizanyang.top/
         git add e.xml
         git commit -m "Update e.xml"
         git push -f origin main
