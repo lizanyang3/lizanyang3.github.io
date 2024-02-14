@@ -4947,110 +4947,134 @@
 	<channel id="上视纪实">
 		<display-name lang="zh">上视纪实</display-name>
 	</channel>
-	<programme channel="上视纪实" start="20240215000000 +0800" stop="20240215013500 +0800">
-		<title lang="zh">地球脉动第三季中文配音版5</title>
+	<programme channel="上视纪实" start="20240215000000 +0800" stop="20240215003300 +0800">
+		<title lang="zh">跟着库珀赏鸟趣:夏威夷篇</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215013500 +0800" stop="20240215020100 +0800">
-		<title lang="zh">今天忙啥呢（2）</title>
+	<programme channel="上视纪实" start="20240215003300 +0800" stop="20240215013600 +0800">
+		<title lang="zh">地球脉动Ⅲ(5)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215020100 +0800" stop="20240215021700 +0800">
+	<programme channel="上视纪实" start="20240215013600 +0800" stop="20240215020200 +0800">
+		<title lang="zh">今天忙啥呢(2)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215020200 +0800" stop="20240215021800 +0800">
 		<title lang="zh">艺术苏河·克里斯蒂安</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215021700 +0800" stop="20240215031200 +0800">
+	<programme channel="上视纪实" start="20240215021800 +0800" stop="20240215024800 +0800">
 		<title lang="zh">路过人间</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215031200 +0800" stop="20240215040300 +0800">
-		<title lang="zh">去你家吃饭好吗（4）</title>
+	<programme channel="上视纪实" start="20240215024800 +0800" stop="20240215025300 +0800">
+		<title lang="zh">如果国宝会说话:三星堆青铜人像</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215040300 +0800" stop="20240215050400 +0800">
-		<title lang="zh">动物奇门功夫：狗儿汪汪，听而无耳</title>
+	<programme channel="上视纪实" start="20240215025300 +0800" stop="20240215025800 +0800">
+		<title lang="zh">如果国宝会说话</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215050400 +0800" stop="20240215060000 +0800">
-		<title lang="zh">跟着库珀赏鸟趣：夏威夷篇</title>
+	<programme channel="上视纪实" start="20240215025800 +0800" stop="20240215030900 +0800">
+		<title lang="zh">如果国宝会说话:太阳神鸟金箔</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215030900 +0800" stop="20240215040000 +0800">
+		<title lang="zh">去你家吃饭好吗(4)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215040000 +0800" stop="20240215050100 +0800">
+		<title lang="zh">动物奇门功夫:狗儿汪汪,听而无耳</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215050100 +0800" stop="20240215060000 +0800">
+		<title lang="zh">跟着库珀赏鸟趣:夏威夷篇</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215060000 +0800" stop="20240215065300 +0800">
-		<title lang="zh">去你家吃饭好吗（3）</title>
+		<title lang="zh">去你家吃饭好吗(3)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215065300 +0800" stop="20240215072400 +0800">
-		<title lang="zh">今天忙啥呢（2）</title>
+	<programme channel="上视纪实" start="20240215065300 +0800" stop="20240215072100 +0800">
+		<title lang="zh">今天忙啥呢(2)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215072400 +0800" stop="20240215081300 +0800">
-		<title lang="zh">流动的中国（2）</title>
+	<programme channel="上视纪实" start="20240215072100 +0800" stop="20240215072400 +0800">
+		<title lang="zh">武夷山:丹山碧水的秘境</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215072400 +0800" stop="20240215080700 +0800">
+		<title lang="zh">流动的中国(2)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215080700 +0800" stop="20240215081300 +0800">
+		<title lang="zh">十年逐梦路(7):无悔青春-苏翊鸣</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215081300 +0800" stop="20240215090800 +0800">
-		<title lang="zh">愚园路（3）</title>
+		<title lang="zh">愚园路(3)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215090800 +0800" stop="20240215101200 +0800">
-		<title lang="zh">地球脉动第三季中文配音版6</title>
+	<programme channel="上视纪实" start="20240215090800 +0800" stop="20240215100900 +0800">
+		<title lang="zh">地球脉动Ⅲ(6)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215100900 +0800" stop="20240215101200 +0800">
+		<title lang="zh">十年逐梦路(5):和谐共生-韩新林</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215101200 +0800" stop="20240215102400 +0800">
-		<title lang="zh">申生不息（7）</title>
+		<title lang="zh">申生不息(7)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215102400 +0800" stop="20240215103400 +0800">
 		<title lang="zh">艺术苏河·克里斯蒂安</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215103400 +0800" stop="20240215114000 +0800">
-		<title lang="zh">一路前行（6）</title>
+		<title lang="zh">一路前行(6)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215114000 +0800" stop="20240215120600 +0800">
-		<title lang="zh">永远的行走第二季中文版1</title>
+		<title lang="zh">永远的行走Ⅱ(1)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215120600 +0800" stop="20240215130600 +0800">
-		<title lang="zh">纪录片何以中国第六集殷商</title>
+		<title lang="zh">何以中国(6):殷商</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215130600 +0800" stop="20240215131700 +0800">
-		<title lang="zh">申生不息（8）</title>
+		<title lang="zh">申生不息(8)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215131700 +0800" stop="20240215141300 +0800">
-		<title lang="zh">十年逐梦路（7）</title>
+		<title lang="zh">十年逐梦路(7)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215141300 +0800" stop="20240215150700 +0800">
-		<title lang="zh">去你家吃饭好吗（2）</title>
+	<programme channel="上视纪实" start="20240215141300 +0800" stop="20240215150400 +0800">
+		<title lang="zh">去你家吃饭好吗(2)</title>
 	</programme>
-	<programme channel="上视纪实" start="20240215150700 +0800" stop="20240215155800 +0800">
-		<title lang="zh">不止考古 · 我与三星堆（3）</title>
+	<programme channel="上视纪实" start="20240215150400 +0800" stop="20240215150700 +0800">
+		<title lang="zh">十年逐梦路:文脉长传-川江号子</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215150700 +0800" stop="20240215155600 +0800">
+		<title lang="zh">不止考古·我与三星堆(3)</title>
+	</programme>
+	<programme channel="上视纪实" start="20240215155600 +0800" stop="20240215155800 +0800">
+		<title lang="zh">武夷山:珍稀动植物的乐土</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215155800 +0800" stop="20240215163400 +0800">
-		<title lang="zh">烟火拾味（4）</title>
+		<title lang="zh">烟火拾味(4)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215163400 +0800" stop="20240215170600 +0800">
-		<title lang="zh">今天忙啥呢（2）</title>
+		<title lang="zh">今天忙啥呢(2)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215170600 +0800" stop="20240215180000 +0800">
-		<title lang="zh">甜蜜中国5</title>
+		<title lang="zh">甜蜜中国(5)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215180000 +0800" stop="20240215184500 +0800">
-		<title lang="zh">跟着库珀赏鸟趣：亚拉巴马篇</title>
+		<title lang="zh">跟着库珀赏鸟趣:亚拉巴马篇</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215184500 +0800" stop="20240215190000 +0800">
-		<title lang="zh">超级装（483）</title>
+		<title lang="zh">超级装(483)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215190000 +0800" stop="20240215200600 +0800">
-		<title lang="zh">地球脉动第三季中文配音版6</title>
+		<title lang="zh">地球脉动Ⅲ(6)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215200600 +0800" stop="20240215205600 +0800">
-		<title lang="zh">曹雪芹与红楼梦（1）</title>
+		<title lang="zh">曹雪芹与红楼梦(1)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215205600 +0800" stop="20240215211100 +0800">
-		<title lang="zh">最家计划（437）</title>
+		<title lang="zh">最家计划(437)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215211100 +0800" stop="20240215220400 +0800">
-		<title lang="zh">去你家吃饭好吗（5）</title>
+		<title lang="zh">去你家吃饭好吗(5)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215220400 +0800" stop="20240215222100 +0800">
-		<title lang="zh">超级装（481）</title>
+		<title lang="zh">超级装(481)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215222100 +0800" stop="20240215223200 +0800">
 		<title lang="zh">艺术苏河·孙大肆</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215223200 +0800" stop="20240215230200 +0800">
-		<title lang="zh">今天忙啥呢（3）</title>
+		<title lang="zh">今天忙啥呢(3)</title>
 	</programme>
 	<programme channel="上视纪实" start="20240215230200 +0800" stop="20240215234700 +0800">
-		<title lang="zh">动物奇门功夫：飞天蛇类，蜥蜴与水牛</title>
-	</programme>
-	<programme channel="上视纪实" start="20240215234700 +0800" stop="20240215235900 +0800">
-		<title lang="zh">跟着库珀赏鸟趣：亚拉巴马篇</title>
+		<title lang="zh">动物奇门功夫</title>
 	</programme>
 	<channel id="世界地理">
 		<display-name lang="zh">世界地理</display-name>
@@ -18255,95 +18279,41 @@
 	<channel id="广东珠江">
 		<display-name lang="zh">广东珠江</display-name>
 	</channel>
-	<programme channel="广东珠江" start="20240215000200 +0800" stop="20240215003500 +0800">
-		<title lang="zh"> 欢叙40年-春节特辑(5)</title>
+	<programme channel="广东珠江" start="20240215003500 +0800" stop="20240215012500 +0800">
+		<title lang="zh">今日关注重播</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215003500 +0800" stop="20240215012600 +0800">
-		<title lang="zh">今日关注</title>
+	<programme channel="广东珠江" start="20240215012500 +0800" stop="20240215070500 +0800">
+		<title lang="zh">电视剧:良辰美景知几何</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215012600 +0800" stop="20240215021100 +0800">
-		<title lang="zh">良辰好景知几何30</title>
+	<programme channel="广东珠江" start="20240215070500 +0800" stop="20240215084500 +0800">
+		<title lang="zh">今日关注(重播)</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215021100 +0800" stop="20240215025600 +0800">
-		<title lang="zh">良辰好景知几何31</title>
+	<programme channel="广东珠江" start="20240215084500 +0800" stop="20240215093000 +0800">
+		<title lang="zh">龙年欢歌“茶督撑”——《粤韵风华》新春特别节目</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215025600 +0800" stop="20240215034100 +0800">
-		<title lang="zh">良辰好景知几何32</title>
+	<programme channel="广东珠江" start="20240215093000 +0800" stop="20240215133500 +0800">
+		<title lang="zh">电视剧:娘道</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215034100 +0800" stop="20240215042600 +0800">
-		<title lang="zh">良辰好景知几何33</title>
+	<programme channel="广东珠江" start="20240215133500 +0800" stop="20240215165500 +0800">
+		<title lang="zh">电视剧:锦绣缘华丽冒险</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215042600 +0800" stop="20240215051100 +0800">
-		<title lang="zh">良辰好景知几何34</title>
+	<programme channel="广东珠江" start="20240215165500 +0800" stop="20240215180000 +0800">
+		<title lang="zh">欢叙40年——春节特辑</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215051100 +0800" stop="20240215055500 +0800">
-		<title lang="zh">良辰好景知几何35</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215055500 +0800" stop="20240215060500 +0800">
-		<title lang="zh">南海海洋天气预报</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215060500 +0800" stop="20240215061500 +0800">
-		<title lang="zh"> 大匠:访寿山石雕刻大师</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215061500 +0800" stop="20240215070000 +0800">
-		<title lang="zh">新闻简报</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215070000 +0800" stop="20240215070100 +0800">
-		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215070100 +0800" stop="20240215070800 +0800">
-		<title lang="zh">气象伴早行</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215070800 +0800" stop="20240215084600 +0800">
-		<title lang="zh">今日关注</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215084600 +0800" stop="20240215093300 +0800">
-		<title lang="zh">新春特别节目(5)</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215093300 +0800" stop="20240215104200 +0800">
-		<title lang="zh">娘道52</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215104200 +0800" stop="20240215114100 +0800">
-		<title lang="zh">娘道53</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215114100 +0800" stop="20240215124300 +0800">
-		<title lang="zh">娘道54</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215124300 +0800" stop="20240215133700 +0800">
-		<title lang="zh">娘道55</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215133700 +0800" stop="20240215151800 +0800">
-		<title lang="zh">锦绣缘华丽冒险11</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215151800 +0800" stop="20240215165800 +0800">
-		<title lang="zh">锦绣缘华丽冒险12</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215165800 +0800" stop="20240215180000 +0800">
-		<title lang="zh"> 欢叙40年-春节特辑(6)</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215180000 +0800" stop="20240215190500 +0800">
+	<programme channel="广东珠江" start="20240215180000 +0800" stop="20240215190000 +0800">
 		<title lang="zh">珠江新闻</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215190500 +0800" stop="20240215195700 +0800">
-		<title lang="zh">南洋女儿情15</title>
+	<programme channel="广东珠江" start="20240215190000 +0800" stop="20240215200000 +0800">
+		<title lang="zh">珠江剧场:南洋女儿情15</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215195700 +0800" stop="20240215200400 +0800">
-		<title lang="zh">新闻简报</title>
+	<programme channel="广东珠江" start="20240215200000 +0800" stop="20240215210000 +0800">
+		<title lang="zh">珠江剧场:南洋女儿情16</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215200400 +0800" stop="20240215210000 +0800">
-		<title lang="zh">南洋女儿情16</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215210000 +0800" stop="20240215220700 +0800">
+	<programme channel="广东珠江" start="20240215210000 +0800" stop="20240215220000 +0800">
 		<title lang="zh">今日关注</title>
 	</programme>
-	<programme channel="广东珠江" start="20240215220700 +0800" stop="20240215225800 +0800">
-		<title lang="zh">倚天屠龙记(25)</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215225800 +0800" stop="20240215234800 +0800">
-		<title lang="zh">倚天屠龙记(26)</title>
-	</programme>
-	<programme channel="广东珠江" start="20240215234800 +0800" stop="20240215235900 +0800">
-		<title lang="zh"> 欢叙40年-春节特辑(6)</title>
+	<programme channel="广东珠江" start="20240215220000 +0800" stop="20240215234500 +0800">
+		<title lang="zh">王牌剧场:倚天屠龙记25、26</title>
 	</programme>
 	<channel id="广州影视">
 		<display-name lang="zh">广州影视</display-name>
