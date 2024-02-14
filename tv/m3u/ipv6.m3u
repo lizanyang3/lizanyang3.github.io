@@ -603,7 +603,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226527/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226688/index.m3u8
 #EXTINF:-1 tvg-id="新乡公共" tvg-name="新乡公共" tvg-logo="https://epg.112114.xyz/logo/新乡公共.png" group-title="河南地方",新乡公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226667/index.m3u8
-#EXTINF:-1 tvg-id="新乡县综合" tvg-name="新乡县综合" tvg-logo="https://epg.112114.xyz/logo/新乡县综合.png" group-title="河南地方",新乡县综合
+#EXTINF:-1 tvg-id="新乡县综合" tvg-name="新乡县综合" tvg-logo="https://epg.112114.xyz/logo/新乡县.png" group-title="河南地方",新乡县综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226603/index.m3u8
 #EXTINF:-1 tvg-id="卫辉综合" tvg-name="卫辉综合" tvg-logo="https://epg.112114.xyz/logo/卫辉综合.png" group-title="河南地方",卫辉综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226538/index.m3u8
