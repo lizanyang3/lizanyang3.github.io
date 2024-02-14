@@ -471,6 +471,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226689/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226515/index.m3u8
 #EXTINF:-1 tvg-id="杞县综合" tvg-name="杞县综合" tvg-logo="https://live.lizanyang.top/tv/杞县综合.png" group-title="河南地方",杞县综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227100/index.m3u8
+#EXTINF:-1 tvg-id="兰考综合" tvg-name="兰考综合" tvg-logo="https://live.lizanyang.top/tv/兰考综合.png" group-title="河南地方",兰考综合
+https://tvpull.dxhmt.cn/tv/10225-1.m3u8
 #EXTINF:-1 tvg-id="商丘综合" tvg-name="商丘综合" tvg-logo="https://live.lizanyang.top/tv/商丘.png" group-title="河南地方",商丘综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8
 #EXTINF:-1 tvg-id="商丘文科" tvg-name="商丘文科" tvg-logo="https://live.lizanyang.top/tv/商丘.png" group-title="河南地方",商丘文科
