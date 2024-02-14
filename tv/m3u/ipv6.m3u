@@ -451,7 +451,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000000558/index.m3u8?channel-id=wasusyt&Contentid=6000000003000000558&livemode=1&stbId=3
 
 
-#EXTINF:-1 tvg-id="郑州时政频道" tvg-name="郑州时政频道" tvg-logo="https://live.lizanyang.top/tv/郑州新闻.png" group-title="河南地方台",郑州新闻
+#EXTINF:-1 tvg-id="郑州新闻综合" tvg-name="郑州新闻综合" tvg-logo="https://live.lizanyang.top/tv/郑州新闻.png" group-title="河南地方台",郑州新闻
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226618/index.m3u8
 #EXTINF:-1 tvg-name="郑州商都" tvg-logo="https://live.lizanyang.top/tv/郑州商都.png" group-title="河南地方台",郑州商都
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226650/index.m3u8
