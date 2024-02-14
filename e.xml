@@ -33768,6 +33768,9 @@
 	<programme channel="华数电子竞技" start="20240215001400 +0800" stop="20240215005900 +0800">
 		<title lang="zh">JJ斗地主冠军杯S3春季赛D组1-2河北源斗团VS天津津门荣耀</title>
 	</programme>
+	<programme channel="华数电子竞技" start="20240215005900 +0800" stop="20240215010900 +0800">
+		<title lang="zh">冬雪海上漂流记第二季_第30集好大的雾啊</title>
+	</programme>
 	<channel id="华数精品剧场">
 		<display-name lang="zh">华数精品剧场</display-name>
 	</channel>
@@ -62511,6 +62514,9 @@
 	<programme channel="爱体育" start="20240215000000 +0800" stop="20240215005000 +0800">
 		<title lang="zh">2022女足亚洲杯半决赛:韩国-菲律宾</title>
 	</programme>
+	<programme channel="爱体育" start="20240215005000 +0800" stop="20240215013300 +0800">
+		<title lang="zh">JJ斗地主冠军杯S3春季赛D组7-3天津津门荣耀VS广东N5菁英会</title>
+	</programme>
 	<channel id="爱动漫">
 		<display-name lang="zh">爱动漫</display-name>
 	</channel>
@@ -62964,17 +62970,26 @@
 	<programme channel="爱幼教" start="20240215003200 +0800" stop="20240215005300 +0800">
 		<title lang="zh">奶油豆豆咖啡馆1_29</title>
 	</programme>
+	<programme channel="爱幼教" start="20240215005300 +0800" stop="20240215011500 +0800">
+		<title lang="zh">奶油豆豆咖啡馆1_30</title>
+	</programme>
 	<channel id="爱悬疑">
 		<display-name lang="zh">爱悬疑</display-name>
 	</channel>
 	<programme channel="爱悬疑" start="20240215001100 +0800" stop="20240215005700 +0800">
 		<title lang="zh">大浪淘沙_16</title>
 	</programme>
+	<programme channel="爱悬疑" start="20240215005700 +0800" stop="20240215014200 +0800">
+		<title lang="zh">大浪淘沙_17</title>
+	</programme>
 	<channel id="爱旅行">
 		<display-name lang="zh">爱旅行</display-name>
 	</channel>
 	<programme channel="爱旅行" start="20240215001000 +0800" stop="20240215005400 +0800">
 		<title lang="zh">神犬小七2_42</title>
+	</programme>
+	<programme channel="爱旅行" start="20240215005400 +0800" stop="20240215014100 +0800">
+		<title lang="zh">爱情有点蓝之爱的交响乐_01</title>
 	</programme>
 	<channel id="爱浪漫">
 		<display-name lang="zh">爱浪漫</display-name>
@@ -63017,6 +63032,9 @@
 	</channel>
 	<programme channel="爱赛车" start="20240215000000 +0800" stop="20240215005500 +0800">
 		<title lang="zh">2023WEC世界汽车耐力锦标赛:比利时站(四)</title>
+	</programme>
+	<programme channel="爱赛车" start="20240215005500 +0800" stop="20240215031100 +0800">
+		<title lang="zh">速度与激情8</title>
 	</programme>
 	<channel id="爱院线">
 		<display-name lang="zh">爱院线</display-name>
@@ -79713,6 +79731,9 @@
 	<programme channel="newtv古装剧场" start="20240215000800 +0800" stop="20240215005400 +0800">
 		<title lang="zh">06_大秦帝国之纵横</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240215005400 +0800" stop="20240215013900 +0800">
+		<title lang="zh">07_大秦帝国之纵横</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -79815,6 +79836,9 @@
 	<programme channel="newtv怡伴健康" start="20240215000800 +0800" stop="20240215005700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240215005700 +0800" stop="20240215014300 +0800">
+		<title lang="zh">26_潜行者</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -79829,6 +79853,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240215003200 +0800" stop="20240215005400 +0800">
 		<title lang="zh">彩色镜头下的二战（1）</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240215005400 +0800" stop="20240215011500 +0800">
+		<title lang="zh">彩色镜头下的二战（2）</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
