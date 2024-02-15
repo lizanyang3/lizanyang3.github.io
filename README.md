@@ -46,7 +46,7 @@
   -  [https://live.lizanyang.top/e.xml](https://live.lizanyang.top/e.xml)
  
 - 🌹**直播订阅地址**：
--   [https://live.lizanyang.top/hn.m3u](https://live.lizanyang.top/hn.m3u)
+  -  [https://live.lizanyang.top/hn.m3u](https://live.lizanyang.top/hn.m3u)
  
 - 🎞️**m3u8下载工具**：
   -  [https://live.lizanyang.top/m3u8](https://live.lizanyang.top/m3u8)
