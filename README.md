@@ -1,4 +1,4 @@
-<p align="center"><img alt="live.lizanyang.top" src="https://live.lizanyang.top/logo.png"></p>
+<p align="center"><img alt="live.lizanyang.top" src="https://live.lizanyang.top"></p>
 <h1 align="center"> ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ </h1>
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕</h3>
 
