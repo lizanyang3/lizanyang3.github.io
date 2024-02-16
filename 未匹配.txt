@@ -1,3 +1,5 @@
+中国大熊猫保护研究中心,https://gcwbndbd.a.bdydns.com/gcwbnd/ipanda1000_2/index.m3u8
+成都大熊猫繁育研究基地,https://gcwbcdbd.a.bdydns.com/gcwbcd/cdrmipanda_1/index.m3u8
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 未知影视频道,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 晴彩焦作,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8?zhend
