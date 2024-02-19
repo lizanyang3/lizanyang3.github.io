@@ -12,7 +12,7 @@ jobs:
     - uses: actions/checkout@v3
     - name: EPG Update
       run: |
-        rm -f e.xml && wget https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml -O 112.xml
+        rm -f 112.xml && wget https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml -O 112.xml
         git config --global user.name lizanyang3
         git config --global user.email 1072400891@qq.com
         git add 112.xml
