@@ -2,14 +2,7 @@
 <h1 align="center"> ✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ </h1>
 <h3 align="center">🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕</h3>
 
-<p align="center">
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/lizanyang3?style=flat-square">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/lizanyang3?style=flat-square">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/lizanyang3?style=flat-square">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/lizanyang3?style=flat-square">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/lizanyang3?style=flat-square">
-<img alt="GitHub" src="https://img.shields.io/github/license/lizanyang3?style=flat-square">
-</p>
+
 
 ---
 
