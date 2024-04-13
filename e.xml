@@ -63,6 +63,9 @@
 	<programme channel="4K综艺" start="20240413100200 +0800" stop="20240413113300 +0800">
 		<title lang="zh">亲爱的客栈第三季20191108</title>
 	</programme>
+	<programme channel="4K综艺" start="20240413113300 +0800" stop="20240413121400 +0800">
+		<title lang="zh">小小的追球20191126</title>
+	</programme>
 	<channel id="ABCAUSTRALIA">
 		<display-name lang="zh">ABCAUSTRALIA</display-name>
 	</channel>
@@ -69195,6 +69198,9 @@
 	<programme channel="黑莓动画" start="20240413112700 +0800" stop="20240413114000 +0800">
 		<title lang="zh">12_钶龙战记</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240413114000 +0800" stop="20240413115200 +0800">
+		<title lang="zh">百变布鲁可第4季第9集</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -70602,6 +70608,9 @@
 	<programme channel="newtv古装剧场" start="20240413105800 +0800" stop="20240413114300 +0800">
 		<title lang="zh">16_凤游龙门</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240413114300 +0800" stop="20240413122800 +0800">
+		<title lang="zh">17_凤游龙门</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -70784,6 +70793,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20240413104500 +0800" stop="20240413113400 +0800">
 		<title lang="zh">29_乡村爱情8：浪漫曲（下）</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20240413113400 +0800" stop="20240413122100 +0800">
+		<title lang="zh">30_乡村爱情8：浪漫曲（下）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -70973,6 +70985,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240413104200 +0800" stop="20240413113600 +0800">
 		<title lang="zh">守望铁轨上的团圆路</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240413113600 +0800" stop="20240413123000 +0800">
+		<title lang="zh">李端：用跳跃冲破黑暗</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
