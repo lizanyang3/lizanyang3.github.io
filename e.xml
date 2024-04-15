@@ -73599,6 +73599,9 @@
 	<programme channel="newtv超级综艺" start="20240415205400 +0800" stop="20240415215500 +0800">
 		<title lang="zh">我爱满堂彩-满堂喝彩</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240415215500 +0800" stop="20240415225200 +0800">
+		<title lang="zh">艺览天下</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -73790,6 +73793,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240415205600 +0800" stop="20240415214100 +0800">
 		<title lang="zh">24_埃博拉前线</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240415214100 +0800" stop="20240415222800 +0800">
+		<title lang="zh">01_繁花（沪语版）</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
