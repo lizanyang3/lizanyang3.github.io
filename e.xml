@@ -61776,6 +61776,9 @@
 	<programme channel="纯享4K" start="20240415195700 +0800" stop="20240415203800 +0800">
 		<title lang="zh">远方的家4K 长江行 向东是大海</title>
 	</programme>
+	<programme channel="纯享4K" start="20240415204400 +0800" stop="20240415204900 +0800">
+		<title lang="zh">美丽中国自然4K 河北围场系列 鹿驰于野</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -73665,6 +73668,9 @@
 	<programme channel="newtv超级电影" start="20240415191800 +0800" stop="20240415204100 +0800">
 		<title lang="zh">电影《重案行动之连环凶杀》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20240415204100 +0800" stop="20240415222400 +0800">
+		<title lang="zh">电影《攻壳机动队》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -73757,6 +73763,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240415200600 +0800" stop="20240415205100 +0800">
 		<title lang="zh">25_新万家灯火</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240415205100 +0800" stop="20240415205600 +0800">
+		<title lang="zh">星推荐</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -73947,6 +73956,9 @@
 	<programme channel="newtv精品纪录" start="20240415201900 +0800" stop="20240415203400 +0800">
 		<title lang="zh">05_奥利弗b7格兰让</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240415203400 +0800" stop="20240415205800 +0800">
+		<title lang="zh">01_对望</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -74033,6 +74045,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20240415195800 +0800" stop="20240415204300 +0800">
 		<title lang="zh">20_白发</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20240415204300 +0800" stop="20240415210300 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -74283,6 +74298,9 @@
 	<programme channel="newtv热播精选" start="20240415195800 +0800" stop="20240415204200 +0800">
 		<title lang="zh">14_而你刚好发光</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20240415204200 +0800" stop="20240415212700 +0800">
+		<title lang="zh">15_而你刚好发光</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -74487,6 +74505,9 @@
 	<programme channel="newtv怡伴健康" start="20240415200100 +0800" stop="20240415204600 +0800">
 		<title lang="zh">第一场 山东好哥哥VS辽宁龙成（第五局）</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240415204600 +0800" stop="20240415212500 +0800">
+		<title lang="zh">第一场 山东好哥哥VS辽宁龙成（第六局）</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -74567,6 +74588,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240415195000 +0800" stop="20240415203600 +0800">
 		<title lang="zh">15_烟火人家</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240415203600 +0800" stop="20240415212100 +0800">
+		<title lang="zh">16_烟火人家</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -74814,6 +74838,9 @@
 	<programme channel="newtv炫舞未来" start="20240415194900 +0800" stop="20240415204500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240415204500 +0800" stop="20240415205900 +0800">
+		<title lang="zh">小品《新房》 表演：蔡明 宋阳</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -74978,6 +75005,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240415195300 +0800" stop="20240415204100 +0800">
 		<title lang="zh">生活服务</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240415204100 +0800" stop="20240415232000 +0800">
+		<title lang="zh">灿烂的前行</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
