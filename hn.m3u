@@ -280,7 +280,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1,tvg-id="直播中国" tvg-name="直播中国" tvg-logo="https://live.lizanyang.top/tv/直播中国.png" group-title="数字",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字",重温经典
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 tvg-id="电影4K测试" tvg-name="电影4K测试" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字",华数爱上4K
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="4K修复" tvg-name="4K修复" tvg-logo="https://live.lizanyang.top/tv/真4K.png" group-title="数字",4K修复
