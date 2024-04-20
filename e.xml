@@ -73953,6 +73953,9 @@
 	<programme channel="newtv超级综艺" start="20240420193000 +0800" stop="20240420205200 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240420205200 +0800" stop="20240420220800 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -74003,6 +74006,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20240420190000 +0800" stop="20240420210000 +0800">
 		<title lang="zh">2024年世界田联钻石联赛-厦门站</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20240420210000 +0800" stop="20240420230000 +0800">
+		<title lang="zh">2024卡塔尔U23亚洲杯-小组赛D组(马来西亚队-越南队)</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -74433,6 +74439,9 @@
 	<programme channel="newtv古装剧场" start="20240420201000 +0800" stop="20240420205600 +0800">
 		<title lang="zh">22_梦华录</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240420205600 +0800" stop="20240420212600 +0800">
+		<title lang="zh">生活服务</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -74690,6 +74699,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240420200900 +0800" stop="20240420205200 +0800">
 		<title lang="zh">12_云顶天宫</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240420205200 +0800" stop="20240420213800 +0800">
+		<title lang="zh">13_云顶天宫</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -74987,6 +74999,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240420201100 +0800" stop="20240420205600 +0800">
 		<title lang="zh">40_烟火人家</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240420205600 +0800" stop="20240420214200 +0800">
+		<title lang="zh">01_锦心似玉</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75557,6 +75572,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240420200900 +0800" stop="20240420205400 +0800">
 		<title lang="zh">07_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240420205400 +0800" stop="20240420214000 +0800">
+		<title lang="zh">08_天龙八部</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
