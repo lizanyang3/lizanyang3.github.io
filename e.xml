@@ -60759,6 +60759,9 @@
 	<programme channel="纯享4K" start="20240420211900 +0800" stop="20240420214900 +0800">
 		<title lang="zh">味道4K 我的家乡菜b7蒙阴篇（上）</title>
 	</programme>
+	<programme channel="纯享4K" start="20240420214900 +0800" stop="20240420221400 +0800">
+		<title lang="zh">魅力智利4K 第3集 诗句坠在灵魂上</title>
+	</programme>
 	<channel id="经典剧场">
 		<display-name lang="zh">经典剧场</display-name>
 	</channel>
@@ -72669,6 +72672,9 @@
 	<programme channel="黑莓动画" start="20240420214100 +0800" stop="20240420214800 +0800">
 		<title lang="zh">12_男娃博士登场</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420215400 +0800" stop="20240420220100 +0800">
+		<title lang="zh">14_勇士之汗</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -72710,6 +72716,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20240420194700 +0800" stop="20240420214700 +0800">
 		<title lang="zh">非诚勿扰3</title>
+	</programme>
+	<programme channel="黑莓电影" start="20240420214700 +0800" stop="20240420235200 +0800">
+		<title lang="zh">蜘蛛侠：英雄远征</title>
 	</programme>
 	<channel id="黑龙江公共农业">
 		<display-name lang="zh">黑龙江公共农业</display-name>
@@ -74271,6 +74280,9 @@
 	<programme channel="newtv精品大剧" start="20240420212500 +0800" stop="20240420215500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240420215500 +0800" stop="20240420224100 +0800">
+		<title lang="zh">34_无间</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -74381,6 +74393,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20240420211400 +0800" stop="20240420215500 +0800">
 		<title lang="zh">法正风清</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20240420215500 +0800" stop="20240420223400 +0800">
+		<title lang="zh">主食千变（一）</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -74561,6 +74576,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240420211000 +0800" stop="20240420215500 +0800">
 		<title lang="zh">31_牧马人</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240420215500 +0800" stop="20240420223800 +0800">
+		<title lang="zh">32_牧马人</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -75198,6 +75216,9 @@
 	<programme channel="newtv军事评论" start="20240420212900 +0800" stop="20240420215600 +0800">
 		<title lang="zh">坚持战斗</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20240420215600 +0800" stop="20240420222200 +0800">
+		<title lang="zh">战场生存</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -75434,6 +75455,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20240420202900 +0800" stop="20240420215600 +0800">
 		<title lang="zh">浮出水面的影子</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240420215600 +0800" stop="20240420233100 +0800">
+		<title lang="zh">绝对底线</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
