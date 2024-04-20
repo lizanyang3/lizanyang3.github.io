@@ -72123,6 +72123,9 @@
 	<programme channel="黑莓动画" start="20240420092900 +0800" stop="20240420094000 +0800">
 		<title lang="zh">03_小马宝莉之魔力新世界</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420094000 +0800" stop="20240420095100 +0800">
+		<title lang="zh">04_小马宝莉之魔力新世界</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -73377,6 +73380,9 @@
 	<programme channel="newtv超级综艺" start="20240420082600 +0800" stop="20240420094900 +0800">
 		<title lang="zh">拿手好戏</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20240420094900 +0800" stop="20240420104700 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -73472,6 +73478,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20240420085800 +0800" stop="20240420094300 +0800">
 		<title lang="zh">38_陈情令</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20240420094300 +0800" stop="20240420102800 +0800">
+		<title lang="zh">39_陈情令</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -73773,6 +73782,9 @@
 	<programme channel="newtv动作电影" start="20240420081100 +0800" stop="20240420094100 +0800">
 		<title lang="zh">鲨鱼星球</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240420094100 +0800" stop="20240420105000 +0800">
+		<title lang="zh">飞鸿笑传</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -73965,6 +73977,9 @@
 	<programme channel="newtv炫舞未来" start="20240420085500 +0800" stop="20240420093800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20240420093800 +0800" stop="20240420102800 +0800">
+		<title lang="zh">退伍军人十年后重返舞台，重温经典追忆光辉岁月（20221011）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -74000,6 +74015,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20240420085400 +0800" stop="20240420093900 +0800">
 		<title lang="zh">40_扶摇</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20240420093900 +0800" stop="20240420102900 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -74048,6 +74066,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20240420085200 +0800" stop="20240420093700 +0800">
 		<title lang="zh">综艺喜乐汇（2021）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20240420093700 +0800" stop="20240420111500 +0800">
+		<title lang="zh">邻家诗话 第3季</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
