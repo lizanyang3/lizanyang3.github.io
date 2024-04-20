@@ -3,3 +3,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [河南移动直播源]
 description: [测试用]
+github:
+  zip_url: https://github.com/lizanyang3
+  another_url: https://github.com/lizanyang3
