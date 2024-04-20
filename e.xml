@@ -72666,6 +72666,9 @@
 	<programme channel="黑莓动画" start="20240420212900 +0800" stop="20240420213400 +0800">
 		<title lang="zh">03_霸王诞生</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240420214100 +0800" stop="20240420214800 +0800">
+		<title lang="zh">12_男娃博士登场</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -74649,6 +74652,9 @@
 	<programme channel="newtv家庭剧场" start="20240420210700 +0800" stop="20240420213700 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20240420213700 +0800" stop="20240420221800 +0800">
+		<title lang="zh">38_幸福照相馆</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -74735,6 +74741,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240420205200 +0800" stop="20240420213800 +0800">
 		<title lang="zh">13_云顶天宫</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240420213800 +0800" stop="20240420224800 +0800">
+		<title lang="zh">新游记</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -74958,6 +74967,9 @@
 	<programme channel="newtv怡伴健康" start="20240420210800 +0800" stop="20240420213800 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20240420213800 +0800" stop="20240420221700 +0800">
+		<title lang="zh">海南四海VS湖南星火燎原a0第三局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -75044,6 +75056,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20240420205600 +0800" stop="20240420214200 +0800">
 		<title lang="zh">01_锦心似玉</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20240420214200 +0800" stop="20240420230200 +0800">
+		<title lang="zh">撒贝宁和尼格买提跳蒙古舞</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -75629,6 +75644,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240420205400 +0800" stop="20240420214000 +0800">
 		<title lang="zh">08_天龙八部</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240420214000 +0800" stop="20240420225900 +0800">
+		<title lang="zh">夺命剑之风云再起</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
