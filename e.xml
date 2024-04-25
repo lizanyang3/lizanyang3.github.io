@@ -69024,6 +69024,9 @@
 	<programme channel="黑莓动画" start="20240425092500 +0800" stop="20240425094600 +0800">
 		<title lang="zh">10_小马宝莉：我的可爱标志上</title>
 	</programme>
+	<programme channel="黑莓动画" start="20240425094600 +0800" stop="20240425095900 +0800">
+		<title lang="zh">09_百变校巴7</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -69708,6 +69711,9 @@
 	<programme channel="newtv精品大剧" start="20240425090000 +0800" stop="20240425094600 +0800">
 		<title lang="zh">17_安家</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20240425094600 +0800" stop="20240425103200 +0800">
+		<title lang="zh">18_安家</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -69795,6 +69801,9 @@
 	<programme channel="newtv古装剧场" start="20240425084400 +0800" stop="20240425093300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv古装剧场" start="20240425093300 +0800" stop="20240425102000 +0800">
+		<title lang="zh">44_隋唐英雄3</title>
+	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
 	</channel>
@@ -69836,6 +69845,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240425085300 +0800" stop="20240425093500 +0800">
 		<title lang="zh">24_大漠苍狼</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240425093500 +0800" stop="20240425101700 +0800">
+		<title lang="zh">25_大漠苍狼</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -69942,6 +69954,9 @@
 	<programme channel="newtv爱情喜剧" start="20240425084300 +0800" stop="20240425093300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv爱情喜剧" start="20240425093300 +0800" stop="20240425110500 +0800">
+		<title lang="zh">等待着你</title>
+	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
 	</channel>
@@ -70007,6 +70022,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240425085700 +0800" stop="20240425094200 +0800">
 		<title lang="zh">29_刀锋乱世情</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240425094200 +0800" stop="20240425102400 +0800">
+		<title lang="zh">生活圈</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -70091,6 +70109,9 @@
 	</programme>
 	<programme channel="newtv军事评论" start="20240425091900 +0800" stop="20240425094400 +0800">
 		<title lang="zh">这个教官有点“狠”</title>
+	</programme>
+	<programme channel="newtv军事评论" start="20240425094400 +0800" stop="20240425101000 +0800">
+		<title lang="zh">遇水架桥的极限操作</title>
 	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
