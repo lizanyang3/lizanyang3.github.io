@@ -150,9 +150,9 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227259/index.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://live.fanmingming.com/tv/延边卫视.png" group-title="卫视",延边卫视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227253/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png" group-title="卫视",三沙卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227404/index.m3u8
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://live.fanmingming.com/tv/厦门卫视.png" group-title="卫视",厦门卫视
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227375/index.m3u8
 #EXTINF:-1 tvg-id="河南导视" tvg-name="河南导视" tvg-logo="https://live.lizanyang.top/tv/导视.png" group-title="河南",河南导视
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226665/index.m3u8
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南4K.png" group-title="河南",河南卫视
@@ -516,7 +516,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226873/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227299/index.m3u8
 #EXTINF:-1 tvg-id="华龙有线" tvg-name="华龙有线" tvg-logo="https://epg.112114.xyz/logo/华龙有线.png" group-title="河南地方",华龙有线
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227307/index.m3u8
-#EXTINF:-1 tvg-id="未知新闻综合" tvg-name="未知新闻综合" tvg-logo="https://epg.112114.xyz/logo/未知新闻综合.png" group-title="河南地方",未知新闻综合
+#EXTINF:-1 tvg-id="沈丘综合" tvg-name="沈丘综合" tvg-logo="https://epg.112114.xyz/logo/沈丘综合.png" group-title="河南地方",沈丘综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227311/index.m3u8
 #EXTINF:-1 tvg-id="长垣广播电视台" tvg-name="长垣广播电视台" tvg-logo="https://epg.112114.xyz/logo/长垣广播电视台.png" group-title="河南地方",长垣广播电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227313/index.m3u8
