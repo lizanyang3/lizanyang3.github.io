@@ -209,6 +209,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道",重温经典
 http://117.114.153.26:8180/TV00000000000000000007@HHZT
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png" group-title="数字频道",重温经典
+https://58.215.231.3/live2.rxip.sc96655.com/live/CWJD_4000.m3u8
 #EXTINF:-1 tvg-id="电影4K测试" tvg-name="电影4K测试" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="数字频道",华数爱上4K
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://live.lizanyang.top/tv/黑龙江影视.png" group-title="数字频道",黑龙江影视
