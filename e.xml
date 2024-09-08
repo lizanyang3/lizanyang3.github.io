@@ -29973,6 +29973,9 @@
 	<programme channel="咪咕足球" start="20240908074000 +0800" stop="20240908092000 +0800">
 		<title lang="zh">当燃CBA 24/25夏季联赛 上海久事-青岛国信水产</title>
 	</programme>
+	<programme channel="咪咕足球" start="20240908092500 +0800" stop="20240908110500 +0800">
+		<title lang="zh">2024NBL季后赛半决赛G3 长沙湾田永胜-香港金牛</title>
+	</programme>
 	<channel id="哈哈炫动">
 		<display-name lang="zh">哈哈炫动</display-name>
 	</channel>
@@ -76287,6 +76290,9 @@
 	<programme channel="newtv精品纪录" start="20240908083100 +0800" stop="20240908092700 +0800">
 		<title lang="zh">第3集：假如妻子离开了你</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240908092700 +0800" stop="20240908101100 +0800">
+		<title lang="zh">第4集：假如丈夫辜负了你</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -76424,6 +76430,9 @@
 	</programme>
 	<programme channel="newtv热播精选" start="20240908083700 +0800" stop="20240908093000 +0800">
 		<title lang="zh">14_星汉灿烂</title>
+	</programme>
+	<programme channel="newtv热播精选" start="20240908093000 +0800" stop="20240908101100 +0800">
+		<title lang="zh">15_星汉灿烂</title>
 	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
@@ -76734,6 +76743,9 @@
 	<programme channel="newtv惊悚悬疑" start="20240908075900 +0800" stop="20240908091800 +0800">
 		<title lang="zh">法医秦明之血色婚礼</title>
 	</programme>
+	<programme channel="newtv惊悚悬疑" start="20240908091800 +0800" stop="20240908103000 +0800">
+		<title lang="zh">京都迷案</title>
+	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
 	</channel>
@@ -76847,6 +76859,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20240908083300 +0800" stop="20240908092700 +0800">
 		<title lang="zh">22_雪鹰领主</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20240908092700 +0800" stop="20240908101400 +0800">
+		<title lang="zh">同仁堂海参滋养超值组-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
