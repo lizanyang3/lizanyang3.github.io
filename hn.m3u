@@ -34,7 +34,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227175/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227188/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227354/index.m3u8
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227382/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视",CGTN记录
@@ -311,7 +311,12 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226648/index.m3u8
 #EXTINF:-1 tvg-id="焦作公共" tvg-name="焦作公共" tvg-logo="https://live.lizanyang.top/tv/焦作公共.png" group-title="河南地方",焦作公共
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226616/index.m3u8
 #EXTINF:-1 tvg-id="沁阳综合" tvg-name="沁阳综合" tvg-logo="https://live.lizanyang.top/tv/沁阳综合.png" group-title="河南地方",沁阳综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227347/index.m3u8
+
+#EXTINF:-1 tvg-id="淮阳综合" tvg-name="淮阳综合" tvg-logo="https://live.lizanyang.top/tv/淮阳综合.png" group-title="河南地方",淮阳综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
+
+
 #EXTINF:-1 tvg-id="孟州综合" tvg-name="孟州综合" tvg-logo="https://live.lizanyang.top/tv/孟州综合.png" group-title="河南地方",孟州综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227035/index.m3u8
 #EXTINF:-1 tvg-id="禹州电视台" tvg-name="禹州电视台" tvg-logo="https://live.lizanyang.top/tv/禹州电视台.png" group-title="河南地方",禹州电视台
@@ -412,21 +417,23 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227321/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227330/index.m3u8
 #EXTINF:-1 tvg-id="辉县综合" tvg-name="辉县综合" tvg-logo="https://live.lizanyang.top/tv/辉县综合.png" group-title="河南地方",辉县综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227332/index.m3u8
-#EXTINF:-1 tvg-id="XXTV" tvg-name="XXTV" tvg-logo="https://live.lizanyang.top/tv/XXTV.png" group-title="河南地方",XXTV
+#EXTINF:-1 tvg-id="浚县综合" tvg-name="浚县综合" tvg-logo="https://live.lizanyang.top/tv/浚县综合.png" group-title="河南地方",浚县综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227344/index.m3u8
 #EXTINF:-1 tvg-id="汤阴电视台" tvg-name="汤阴电视台" tvg-logo="https://live.lizanyang.top/tv/汤阴电视台.png" group-title="河南地方",汤阴电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227372/index.m3u8
 #EXTINF:-1 tvg-id="鲁山电视台" tvg-name="鲁山电视台" tvg-logo="https://live.lizanyang.top/tv/鲁山电视台.png" group-title="河南地方",鲁山电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227370/index.m3u8
+#EXTINF:-1 tvg-id="遂平综合" tvg-name="遂平综合" tvg-logo="https://live.lizanyang.top/tv/遂平综合.png" group-title="河南地方",遂平综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227396/index.m3u8
 
 #EXTINF:-1 tvg-id="大美河南" tvg-name="大美河南" tvg-logo="https://live.lizanyang.top/tv/大美河南.png" group-title="河南地方",大美河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226350/index.m3u8
 #EXTINF:-1 tvg-id="大美河南" tvg-name="大美河南" tvg-logo="https://live.lizanyang.top/tv/大美河南.png" group-title="河南地方",大美河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227303/index.m3u8
-
-
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="数字综合",求索记录
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
+#EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.fanmingming.com/tv/求索记录.png" group-title="数字综合",求索记录4K
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8
 #EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="数字综合",求索科学
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226115/index.m3u8
 #EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="数字综合",求索生活
