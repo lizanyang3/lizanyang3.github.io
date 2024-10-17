@@ -210,12 +210,18 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226673/index.m3u8
 #EXTINF:-1 tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://live.lizanyang.top/tv/开封新闻.png" group-title="河南地方",开封综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226689/index.m3u8
+#EXTINF:-1 tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://live.lizanyang.top/tv/开封新闻.png" group-title="河南地方",开封综合
+https://tvpull.dxhmt.cn/tv/10200-2.m3u8
 #EXTINF:-1 tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="https://live.lizanyang.top/tv/开封文旅.png" group-title="河南地方",开封文旅
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226515/index.m3u8
+#EXTINF:-1 tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="https://live.lizanyang.top/tv/开封文旅.png" group-title="河南地方",开封文旅
+https://tvpull.dxhmt.cn/tv/10200-3.m3u8
 #EXTINF:-1 tvg-id="祥符电视台" tvg-name="祥符电视台" tvg-logo="https://live.lizanyang.top/tv/祥符电视台.png" group-title="河南地方",祥符电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227349/index.m3u8
 #EXTINF:-1 tvg-id="杞县综合" tvg-name="杞县综合" tvg-logo="https://live.lizanyang.top/tv/杞县综合.png" group-title="河南地方",杞县综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227100/index.m3u8
+#EXTINF:-1 tvg-id="杞县综合" tvg-name="杞县综合" tvg-logo="https://live.lizanyang.top/tv/杞县综合.png" group-title="河南地方",杞县综合
+https://tvpull.dxhmt.cn/tv/10221-1.m3u8
 #EXTINF:-1 tvg-id="兰考综合" tvg-name="兰考综合" tvg-logo="https://live.lizanyang.top/tv/兰考综合.png" group-title="河南地方",兰考综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227377/index.m3u8
 #EXTINF:-1 tvg-id="兰考综合" tvg-name="兰考综合" tvg-logo="https://live.lizanyang.top/tv/兰考综合.png" group-title="河南地方",兰考综合
