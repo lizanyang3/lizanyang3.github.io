@@ -210,7 +210,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226673/index.m3u8
 #EXTINF:-1 tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://live.lizanyang.top/tv/开封新闻.png" group-title="河南地方",开封综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226689/index.m3u8
-#EXTINF:-1 tvg-id="开封文化旅游" tvg-name="开封文化旅游频道" tvg-logo="https://live.lizanyang.top/tv/开封文旅.png" group-title="河南地方",开封文旅
+#EXTINF:-1 tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="https://live.lizanyang.top/tv/开封文旅.png" group-title="河南地方",开封文旅
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226515/index.m3u8
 #EXTINF:-1 tvg-id="祥符电视台" tvg-name="祥符电视台" tvg-logo="https://live.lizanyang.top/tv/祥符电视台.png" group-title="河南地方",祥符电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227349/index.m3u8
