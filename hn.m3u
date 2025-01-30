@@ -208,26 +208,14 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226673/index.m3u8
 #EXTINF:-1 tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://live.lizanyang.top/tv/开封新闻.png" group-title="河南地方",开封综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226689/index.m3u8
-#EXTINF:-1 tvg-id="开封新闻综合" tvg-name="开封新闻综合" tvg-logo="https://live.lizanyang.top/tv/开封新闻.png" group-title="河南地方",开封综合
-https://tvpull.dxhmt.cn/tv/10200-2.m3u8
 #EXTINF:-1 tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="https://live.lizanyang.top/tv/开封文旅.png" group-title="河南地方",开封文旅
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226515/index.m3u8
-#EXTINF:-1 tvg-id="开封文化旅游" tvg-name="开封文化旅游" tvg-logo="https://live.lizanyang.top/tv/开封文旅.png" group-title="河南地方",开封文旅
-https://tvpull.dxhmt.cn/tv/10200-3.m3u8
 #EXTINF:-1 tvg-id="祥符电视台" tvg-name="祥符电视台" tvg-logo="https://live.lizanyang.top/tv/祥符电视台.png" group-title="河南地方",祥符电视台
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227349/index.m3u8
 #EXTINF:-1 tvg-id="杞县综合" tvg-name="杞县综合" tvg-logo="https://live.lizanyang.top/tv/杞县综合.png" group-title="河南地方",杞县综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227100/index.m3u8
-#EXTINF:-1 tvg-id="杞县综合" tvg-name="杞县综合" tvg-logo="https://live.lizanyang.top/tv/杞县综合.png" group-title="河南地方",杞县综合
-https://tvpull.dxhmt.cn/tv/10221-1.m3u8
 #EXTINF:-1 tvg-id="兰考综合" tvg-name="兰考综合" tvg-logo="https://live.lizanyang.top/tv/兰考综合.png" group-title="河南地方",兰考综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227377/index.m3u8
-#EXTINF:-1 tvg-id="兰考综合" tvg-name="兰考综合" tvg-logo="https://live.lizanyang.top/tv/兰考综合.png" group-title="河南地方",兰考综合
-https://tvpull.dxhmt.cn/tv/10225-1.m3u8
-#EXTINF:-1 tvg-id="尉氏综合" tvg-name="尉氏综合" tvg-logo="https://live.lizanyang.top/tv/尉氏综合.png" group-title="河南地方",尉氏综合
-https://tvpull.dxhmt.cn/tv/10223-1.m3u8
-#EXTINF:-1 tvg-id="通许综合" tvg-name="通许综合" tvg-logo="https://live.lizanyang.top/tv/通许综合.png" group-title="河南地方",通许综合
-https://tvpull.dxhmt.cn/tv/10222-1.m3u8
 #EXTINF:-1 tvg-id="商丘新闻综合" tvg-name="商丘综合" tvg-logo="https://live.lizanyang.top/tv/商丘.png" group-title="河南地方",商丘综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226550/index.m3u8
 #EXTINF:-1 tvg-id="商丘文体科教" tvg-name="商丘文科" tvg-logo="https://live.lizanyang.top/tv/商丘.png" group-title="河南地方",商丘文科
@@ -316,11 +304,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226648/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226616/index.m3u8
 #EXTINF:-1 tvg-id="沁阳综合" tvg-name="沁阳综合" tvg-logo="https://live.lizanyang.top/tv/沁阳综合.png" group-title="河南地方",沁阳综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227347/index.m3u8
-
 #EXTINF:-1 tvg-id="淮阳综合" tvg-name="淮阳综合" tvg-logo="https://live.lizanyang.top/tv/淮阳综合.png" group-title="河南地方",淮阳综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
-
-
 #EXTINF:-1 tvg-id="孟州综合" tvg-name="孟州综合" tvg-logo="https://live.lizanyang.top/tv/孟州综合.png" group-title="河南地方",孟州综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227035/index.m3u8
 #EXTINF:-1 tvg-id="禹州电视台" tvg-name="禹州电视台" tvg-logo="https://live.lizanyang.top/tv/禹州电视台.png" group-title="河南地方",禹州电视台
@@ -429,7 +414,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227372/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227370/index.m3u8
 #EXTINF:-1 tvg-id="遂平综合" tvg-name="遂平综合" tvg-logo="https://live.lizanyang.top/tv/遂平综合.png" group-title="河南地方",遂平综合
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227396/index.m3u8
-
+#EXTINF:-1 tvg-id="襄城综合" tvg-name="襄城综合" tvg-logo="https://live.lizanyang.top/tv/襄城综合.png" group-title="河南地方",襄城综合
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227403/index.m3u8
 #EXTINF:-1 tvg-id="大美河南" tvg-name="大美河南" tvg-logo="https://live.lizanyang.top/tv/大美河南.png" group-title="河南地方",大美河南
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226350/index.m3u8
 #EXTINF:-1 tvg-id="大美河南" tvg-name="大美河南" tvg-logo="https://live.lizanyang.top/tv/大美河南.png" group-title="河南地方",大美河南
