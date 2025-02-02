@@ -460,7 +460,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226548/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226583/index.m3u8
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="数字综合",快乐垂钓
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8
-#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="综艺动漫",茶频道
+#EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字综合",茶频道
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226647/index.m3u8
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://live.fanmingming.com/tv/先锋乒羽.png" group-title="数字综合",先锋乒羽
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226679/index.m3u8
