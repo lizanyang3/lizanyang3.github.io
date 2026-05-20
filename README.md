@@ -15,6 +15,8 @@
 
 ![donate_alipay](tv/donate_alipay.png)
 
+不要打赏!!
+
 
 09.24
 更新几个4k频道logo
