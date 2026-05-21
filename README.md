@@ -13,10 +13,6 @@
 - 主域名【`live.lizanyang.top`】的WEB访问通过Github Pages自动构建，由CloudFlare提供CDN和安全防护。
 
 
-![donate_alipay](tv/donate_alipay.png)
-
-不要打赏!!尽做测试
-
 
 09.24
 更新几个4k频道logo
