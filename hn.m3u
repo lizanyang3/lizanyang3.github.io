@@ -29,7 +29,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227428/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 #EXTINF:-1 tvg-id="求索记录" tvg-name="求索记录" tvg-logo="https://live.lizanyang.top/tv/求索记录4K.png" group-title="4K超高清",求索记录4K
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227381/index.m3u8
-#EXTINF:-1 tvg-id="CHC影迷频道" tvg-name="CHC影迷频道" tvg-logo="https://live.lizanyang.top/tv/CHC影迷频道.png" group-title="央视",CHC影迷频道
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://live.lizanyang.top/tv/CHC影迷电影.png" group-title="央视",CHC影迷电影
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227522/index.m3u8
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.lizanyang.top/tv/CHC动作电影.png" group-title="央视",CHC动作电影
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227479/index.m3u8
