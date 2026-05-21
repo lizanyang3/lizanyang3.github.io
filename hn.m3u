@@ -51,13 +51,13 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227500/index.m3u8
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227506/index.m3u8
 #EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://live.lizanyang.top/tv/CCTV女性时尚.png" group-title="央视",CCTV女性时尚
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227510/index.m3u8
-#EXTINF:-1 tvg-id="CCTV高尔夫 网球" tvg-name="CCTV高尔夫 网球" tvg-logo="https://live.lizanyang.top/tv/CCTV高尔夫 网球.png" group-title="央视",CCTV高尔夫 网球
+#EXTINF:-1 tvg-id="CCTV央视高网" tvg-name="CCTV央视高网" tvg-logo="https://live.lizanyang.top/tv/CCTV央视高网.png" group-title="央视",CCTV央视高网
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227508/index.m3u8
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://live.lizanyang.top/tv/CCTV世界地理.png" group-title="央视",CCTV世界地理
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227512/index.m3u8
 #EXTINF:-1 tvg-id="CCTV卫生健康" tvg-name="CCTV卫生健康" tvg-logo="https://live.lizanyang.top/tv/CCTV卫生健康.png" group-title="央视",CCTV卫生健康
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227516/index.m3u8
-#EXTINF:-1 tvg-id="CCTV央视文化精品" tvg-name="CCTV央视文化精品" tvg-logo="https://live.lizanyang.top/tv/CCTV央视文化精品.png" group-title="央视",CCTV央视文化精品
+#EXTINF:-1 tvg-id="CCTV文化精品" tvg-name="CCTV文化精品" tvg-logo="https://live.lizanyang.top/tv/CCTV文化精品.png" group-title="央视",CCTV文化精品
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227514/index.m3u8
 
 
