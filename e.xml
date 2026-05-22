@@ -18138,6 +18138,27 @@
 	<programme channel="咪咕综合体育" start="20260522173000 +0800" stop="20260522191000 +0800">
 		<title lang="zh">足球世界-25/26赛季法甲 第34轮 巴黎FC-巴黎圣日耳曼</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260522192000 +0800" stop="20260522210000 +0800">
+		<title lang="zh">足球世界-25/26赛季足总杯 决赛 切尔西-曼城</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260522211000 +0800" stop="20260522211500 +0800">
+		<title lang="zh">中超之星</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260522211500 +0800" stop="20260522212000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260522212000 +0800" stop="20260522214000 +0800">
+		<title lang="zh">中国榜样-潘晓婷特辑（下）-天赋与努力缺一不可</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260522214500 +0800" stop="20260522215500 +0800">
+		<title lang="zh">射正指南</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260522215500 +0800" stop="20260522221000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260522221000 +0800" stop="20260522235000 +0800">
+		<title lang="zh">网球世界-2025WTA华盛顿站决赛 费尔南德斯-卡琳斯卡娅</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18203,6 +18224,21 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260522184500 +0800" stop="20260522190500 +0800">
 		<title lang="zh">赛事睛华</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260522192000 +0800" stop="20260522193000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260522193000 +0800" stop="20260522203000 +0800">
+		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260522203500 +0800" stop="20260522221000 +0800">
+		<title lang="zh">2026国青男篮热身赛 第六场 中国U17男篮-美国犹他预科篮球队</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260522221000 +0800" stop="20260522222000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260522222000 +0800" stop="20260522000000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第12轮 陕西榆林天泽-四川蜀道远达</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -59955,6 +59991,15 @@
 	<programme channel="newtv超级综艺" start="20260522161400 +0800" stop="20260522191200 +0800">
 		<title lang="zh">中国唱将</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260522191200 +0800" stop="20260522204200 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260522204200 +0800" stop="20260522215900 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260522215900 +0800" stop="20260522231600 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60012,6 +60057,15 @@
 	<programme channel="newtv超级体育" start="20260522183500 +0800" stop="20260522193000 +0800">
 		<title lang="zh">篮球公园</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260522193000 +0800" stop="20260522213000 +0800">
+		<title lang="zh">2025/2026赛季中国男子篮球职业联赛-半决赛7</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260522213000 +0800" stop="20260522223500 +0800">
+		<title lang="zh">体育世界</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260522223500 +0800" stop="20260522000500 +0800">
+		<title lang="zh">2025/2026赛季欧洲篮球联赛-半决赛(奥林匹亚科斯-费内巴切)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60053,6 +60107,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260522181700 +0800" stop="20260522194600 +0800">
 		<title lang="zh">解决专家</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260522194600 +0800" stop="20260522214900 +0800">
+		<title lang="zh">暮光之城3：月食</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260522214900 +0800" stop="20260522002400 +0800">
+		<title lang="zh">变形金刚3</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60131,6 +60191,24 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260522180400 +0800" stop="20260522184600 +0800">
 		<title lang="zh">18_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522184600 +0800" stop="20260522192700 +0800">
+		<title lang="zh">19_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522192700 +0800" stop="20260522200900 +0800">
+		<title lang="zh">20_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522200900 +0800" stop="20260522205000 +0800">
+		<title lang="zh">21_叛逆者</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522205000 +0800" stop="20260522213800 +0800">
+		<title lang="zh">20_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522213800 +0800" stop="20260522222600 +0800">
+		<title lang="zh">21_庆余年第二季</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260522222600 +0800" stop="20260522231300 +0800">
+		<title lang="zh">22_庆余年第二季</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60407,6 +60485,27 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260522181900 +0800" stop="20260522190300 +0800">
 		<title lang="zh">07_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522190300 +0800" stop="20260522193300 +0800">
+		<title lang="zh">涪陵榨菜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522193300 +0800" stop="20260522201700 +0800">
+		<title lang="zh">08_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522201700 +0800" stop="20260522204700 +0800">
+		<title lang="zh">涪陵榨菜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522204700 +0800" stop="20260522213100 +0800">
+		<title lang="zh">09_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522213100 +0800" stop="20260522220100 +0800">
+		<title lang="zh">涪陵榨菜好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522220100 +0800" stop="20260522224500 +0800">
+		<title lang="zh">10_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260522224500 +0800" stop="20260522231500 +0800">
+		<title lang="zh">涪陵榨菜好物推荐</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
