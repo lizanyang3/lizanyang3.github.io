@@ -18405,6 +18405,21 @@
 	<programme channel="咪咕综合体育" start="20260612190000 +0800" stop="20260612200000 +0800">
 		<title lang="zh">绿荫狂想第1期 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260612200000 +0800" stop="20260612200500 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260612203000 +0800" stop="20260612221000 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 A组第1轮 韩国-捷克</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260612221500 +0800" stop="20260612224000 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260612224500 +0800" stop="20260612231000 +0800">
+		<title lang="zh">中超精华 第15轮</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260612231500 +0800" stop="20260612234500 +0800">
+		<title lang="zh">哨响之后-北京国安特辑-对话“北京孩子”侯森</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18494,6 +18509,12 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260612193000 +0800" stop="20260612203000 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260612203500 +0800" stop="20260612221000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 季后赛1/4决赛G2 长沙勇胜-合肥狂风</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260612222000 +0800" stop="20260612235000 +0800">
+		<title lang="zh">我爱女篮-25/26赛季季后赛 1/4决赛G1 新疆天山-山东赤水河酒</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -60453,6 +60474,12 @@
 	<programme channel="newtv超级综艺" start="20260612184000 +0800" stop="20260612195700 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260612195700 +0800" stop="20260612211400 +0800">
+		<title lang="zh">开门大吉</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260612211400 +0800" stop="20260612235800 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -60498,6 +60525,15 @@
 	<programme channel="newtv超级体育" start="20260612190500 +0800" stop="20260612200000 +0800">
 		<title lang="zh">燃动金杯-1(录播)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260612200000 +0800" stop="20260612220000 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-豪门盛宴-2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260612220000 +0800" stop="20260612230600 +0800">
+		<title lang="zh">2026年美加墨世界杯报道-如约而至-2</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260612230600 +0800" stop="20260612003500 +0800">
+		<title lang="zh">实况录像-2026世界杯小组赛A组第一轮 墨西哥队-南非队</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -60539,6 +60575,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260612190400 +0800" stop="20260612203200 +0800">
 		<title lang="zh">疯颠和尚之再续前缘</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260612203200 +0800" stop="20260612223300 +0800">
+		<title lang="zh">非凡任务</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260612223300 +0800" stop="20260612000600 +0800">
+		<title lang="zh">我是卧底</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -60623,6 +60665,21 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260612192700 +0800" stop="20260612200800 +0800">
 		<title lang="zh">21_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260612200800 +0800" stop="20260612205000 +0800">
+		<title lang="zh">22_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260612205000 +0800" stop="20260612213100 +0800">
+		<title lang="zh">23_什刹海</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260612213100 +0800" stop="20260612221600 +0800">
+		<title lang="zh">02_空降利刃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260612221600 +0800" stop="20260612230100 +0800">
+		<title lang="zh">03_空降利刃</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260612230100 +0800" stop="20260612234700 +0800">
+		<title lang="zh">04_空降利刃</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -61262,6 +61319,24 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260612191200 +0800" stop="20260612195600 +0800">
 		<title lang="zh">28_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612195600 +0800" stop="20260612202700 +0800">
+		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612202700 +0800" stop="20260612211000 +0800">
+		<title lang="zh">29_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612211000 +0800" stop="20260612214000 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612214000 +0800" stop="20260612222400 +0800">
+		<title lang="zh">30_潜渊</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612222400 +0800" stop="20260612225400 +0800">
+		<title lang="zh">肉松饼好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260612225400 +0800" stop="20260612233700 +0800">
+		<title lang="zh">31_潜渊</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
