@@ -18042,6 +18042,15 @@
 	<programme channel="咪咕综合体育" start="20260703100000 +0800" stop="20260703131000 +0800">
 		<title lang="zh">2026美加墨世界杯 1/16决赛 瑞士-阿尔及利亚 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260703131000 +0800" stop="20260703132000 +0800">
+		<title lang="zh">世界杯宣传</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260703135000 +0800" stop="20260703140000 +0800">
+		<title lang="zh">詹前顾后</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260703140500 +0800" stop="20260703154500 +0800">
+		<title lang="zh">全景世界杯-2026美加墨世界杯 1/16决赛 美国-波黑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -18104,6 +18113,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260703115000 +0800" stop="20260703120000 +0800">
 		<title lang="zh">绝对独家对话周琦</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260703120500 +0800" stop="20260703133500 +0800">
+		<title lang="zh">中国篮球时刻-2025女篮系列热身赛 第二场 中国女篮-波黑女篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260703133500 +0800" stop="20260703135000 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260703135000 +0800" stop="20260703144000 +0800">
+		<title lang="zh">最后之舞07</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260703144500 +0800" stop="20260703154500 +0800">
+		<title lang="zh">超级三对三-2025超三联赛</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -57027,6 +57048,408 @@
 	<programme channel="青岛tv2" start="20260703231300 +0800" stop="20260703235900 +0800">
 		<title lang="zh">生活快线</title>
 	</programme>
+	<channel id="青岛tv3">
+		<display-name lang="zh">青岛TV3</display-name>
+	</channel>
+	<programme channel="青岛tv3" start="20260703000000 +0800" stop="20260703060700 +0800">
+		<title lang="zh">奇门遁甲01</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703060700 +0800" stop="20260703071200 +0800">
+		<title lang="zh">江河之上06</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703071200 +0800" stop="20260703082000 +0800">
+		<title lang="zh">江河之上07</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703082000 +0800" stop="20260703084500 +0800">
+		<title lang="zh">早间气象3分钟</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703084500 +0800" stop="20260703093000 +0800">
+		<title lang="zh">幸福草08</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703093000 +0800" stop="20260703101500 +0800">
+		<title lang="zh">幸福草09</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703101500 +0800" stop="20260703110400 +0800">
+		<title lang="zh">幸福草10</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703110400 +0800" stop="20260703114900 +0800">
+		<title lang="zh">大江大河256</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703114900 +0800" stop="20260703123400 +0800">
+		<title lang="zh">大江大河257</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703123400 +0800" stop="20260703134000 +0800">
+		<title lang="zh">大江大河258</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703134000 +0800" stop="20260703134500 +0800">
+		<title lang="zh">午间气象3分钟</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703134500 +0800" stop="20260703135600 +0800">
+		<title lang="zh">开心旅游</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703135600 +0800" stop="20260703144100 +0800">
+		<title lang="zh">有盼头24</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703144100 +0800" stop="20260703152600 +0800">
+		<title lang="zh">有盼头25</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703152600 +0800" stop="20260703161100 +0800">
+		<title lang="zh">有盼头26</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703161100 +0800" stop="20260703163900 +0800">
+		<title lang="zh">有盼头27</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703163900 +0800" stop="20260703172400 +0800">
+		<title lang="zh">情满九道弯14</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703172400 +0800" stop="20260703180900 +0800">
+		<title lang="zh">情满九道弯15</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703180900 +0800" stop="20260703185500 +0800">
+		<title lang="zh">情满九道弯16</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703185500 +0800" stop="20260703211100 +0800">
+		<title lang="zh">（三）天气预报上</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703211100 +0800" stop="20260703211600 +0800">
+		<title lang="zh">（三）天气预报上</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703211600 +0800" stop="20260703220200 +0800">
+		<title lang="zh">江河之上08</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703220200 +0800" stop="20260703225000 +0800">
+		<title lang="zh">江河之上09</title>
+	</programme>
+	<programme channel="青岛tv3" start="20260703225000 +0800" stop="20260703235900 +0800">
+		<title lang="zh">勇者无惧01</title>
+	</programme>
+	<channel id="青岛tv4">
+		<display-name lang="zh">青岛TV4</display-name>
+	</channel>
+	<programme channel="青岛tv4" start="20260703000000 +0800" stop="20260703054200 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2026</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703054200 +0800" stop="20260703055300 +0800">
+		<title lang="zh">一起旅行吧</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703055300 +0800" stop="20260703062500 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703062500 +0800" stop="20260703073200 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2026</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703073200 +0800" stop="20260703074700 +0800">
+		<title lang="zh">生活天天秀上</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703074700 +0800" stop="20260703080200 +0800">
+		<title lang="zh">生活天天秀中</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703080200 +0800" stop="20260703083100 +0800">
+		<title lang="zh">生活天天秀下</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703083100 +0800" stop="20260703083400 +0800">
+		<title lang="zh">早间气象</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703083400 +0800" stop="20260703094800 +0800">
+		<title lang="zh">棋牌英雄传之智斗地主2026</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703094800 +0800" stop="20260703103100 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703103100 +0800" stop="20260703113600 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2026</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703113600 +0800" stop="20260703115100 +0800">
+		<title lang="zh">生活天天秀上</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703115100 +0800" stop="20260703120600 +0800">
+		<title lang="zh">生活天天秀中</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703120600 +0800" stop="20260703122900 +0800">
+		<title lang="zh">生活天天秀下</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703122900 +0800" stop="20260703123400 +0800">
+		<title lang="zh">午间气象</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703123400 +0800" stop="20260703132500 +0800">
+		<title lang="zh">棋牌英雄传之智斗地主2026</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703132500 +0800" stop="20260703155400 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2026</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703155400 +0800" stop="20260703160900 +0800">
+		<title lang="zh">生活天天秀上</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703160900 +0800" stop="20260703162400 +0800">
+		<title lang="zh">生活天天秀中</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703162400 +0800" stop="20260703164600 +0800">
+		<title lang="zh">生活天天秀下</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703164600 +0800" stop="20260703165900 +0800">
+		<title lang="zh">一起旅行吧</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703165900 +0800" stop="20260703173500 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703173500 +0800" stop="20260703181900 +0800">
+		<title lang="zh">江河日上15</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703181900 +0800" stop="20260703190500 +0800">
+		<title lang="zh">江河日上16</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703190500 +0800" stop="20260703193700 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703193700 +0800" stop="20260703194900 +0800">
+		<title lang="zh">一起旅行吧</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703194900 +0800" stop="20260703195500 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703195500 +0800" stop="20260703203700 +0800">
+		<title lang="zh">棋牌英雄传之智斗地主2026</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703203700 +0800" stop="20260703213400 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2026</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703213400 +0800" stop="20260703213600 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703213600 +0800" stop="20260703223900 +0800">
+		<title lang="zh">银发经济新观察</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703223900 +0800" stop="20260703225000 +0800">
+		<title lang="zh">一起旅行吧</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703225000 +0800" stop="20260703232200 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv4" start="20260703232200 +0800" stop="20260703235900 +0800">
+		<title lang="zh">棋牌英雄传之智斗地主2026</title>
+	</programme>
+	<channel id="青岛tv5">
+		<display-name lang="zh">青岛TV5</display-name>
+	</channel>
+	<programme channel="青岛tv5" start="20260703000000 +0800" stop="20260703060000 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2025</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703060000 +0800" stop="20260703062000 +0800">
+		<title lang="zh">生活天天秀上</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703062000 +0800" stop="20260703064000 +0800">
+		<title lang="zh">生活天天秀中</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703064000 +0800" stop="20260703072000 +0800">
+		<title lang="zh">生活天天秀下</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703072000 +0800" stop="20260703075100 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703075100 +0800" stop="20260703081500 +0800">
+		<title lang="zh">新财经</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703081500 +0800" stop="20260703083000 +0800">
+		<title lang="zh">财经面对面</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703083000 +0800" stop="20260703083300 +0800">
+		<title lang="zh">早间气象</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703083300 +0800" stop="20260703085100 +0800">
+		<title lang="zh">文创之岛</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703085100 +0800" stop="20260703093300 +0800">
+		<title lang="zh">棋牌英雄传之智斗地主2025</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703093300 +0800" stop="20260703113000 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2025</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703113000 +0800" stop="20260703114600 +0800">
+		<title lang="zh">一起旅行吧</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703114600 +0800" stop="20260703121600 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703121600 +0800" stop="20260703121900 +0800">
+		<title lang="zh">午间气象</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703121900 +0800" stop="20260703135600 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2025</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703135600 +0800" stop="20260703141600 +0800">
+		<title lang="zh">生活天天秀上</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703141600 +0800" stop="20260703143600 +0800">
+		<title lang="zh">生活天天秀中</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703143600 +0800" stop="20260703145600 +0800">
+		<title lang="zh">生活天天秀下</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703145600 +0800" stop="20260703151600 +0800">
+		<title lang="zh">新财经</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703151600 +0800" stop="20260703153600 +0800">
+		<title lang="zh">财经面对面</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703153600 +0800" stop="20260703164200 +0800">
+		<title lang="zh">棋牌英雄传之智斗地主2025</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703164200 +0800" stop="20260703185700 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2025</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703185700 +0800" stop="20260703191200 +0800">
+		<title lang="zh">文创之岛</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703191200 +0800" stop="20260703191400 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703191400 +0800" stop="20260703194500 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703194500 +0800" stop="20260703200500 +0800">
+		<title lang="zh">生活天天秀上</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703200500 +0800" stop="20260703202500 +0800">
+		<title lang="zh">生活天天秀中</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703202500 +0800" stop="20260703204400 +0800">
+		<title lang="zh">生活天天秀下</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703204400 +0800" stop="20260703205900 +0800">
+		<title lang="zh">文创之岛</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703205900 +0800" stop="20260703210200 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703210200 +0800" stop="20260703213200 +0800">
+		<title lang="zh">生活有伴</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703213200 +0800" stop="20260703214700 +0800">
+		<title lang="zh">一起旅行吧</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703214700 +0800" stop="20260703220700 +0800">
+		<title lang="zh">新财经</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703220700 +0800" stop="20260703222300 +0800">
+		<title lang="zh">财经面对面</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703222300 +0800" stop="20260703223900 +0800">
+		<title lang="zh">文创之岛</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703223900 +0800" stop="20260703224200 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703224200 +0800" stop="20260703232200 +0800">
+		<title lang="zh">棋牌英雄传之智斗地主2025</title>
+	</programme>
+	<programme channel="青岛tv5" start="20260703232200 +0800" stop="20260703235900 +0800">
+		<title lang="zh">棋牌英雄传之够级英雄2025</title>
+	</programme>
+	<channel id="青岛tv6">
+		<display-name lang="zh">青岛TV6</display-name>
+	</channel>
+	<programme channel="青岛tv6" start="20260703000000 +0800" stop="20260703070100 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703070100 +0800" stop="20260703071200 +0800">
+		<title lang="zh">铁道传奇</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703071200 +0800" stop="20260703073200 +0800">
+		<title lang="zh">青岛教育新闻</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703073200 +0800" stop="20260703074200 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703074200 +0800" stop="20260703075100 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703075100 +0800" stop="20260703080100 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703080100 +0800" stop="20260703081500 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703081500 +0800" stop="20260703090200 +0800">
+		<title lang="zh">东北抗日联军16</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703090200 +0800" stop="20260703094800 +0800">
+		<title lang="zh">东北抗日联军17</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703094800 +0800" stop="20260703103500 +0800">
+		<title lang="zh">东北抗日联军18</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703103500 +0800" stop="20260703112900 +0800">
+		<title lang="zh">东北抗日联军19</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703112900 +0800" stop="20260703120000 +0800">
+		<title lang="zh">直通高考</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703120000 +0800" stop="20260703124700 +0800">
+		<title lang="zh">川流12</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703124700 +0800" stop="20260703133400 +0800">
+		<title lang="zh">川流13</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703133400 +0800" stop="20260703142100 +0800">
+		<title lang="zh">川流14</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703142100 +0800" stop="20260703150800 +0800">
+		<title lang="zh">川流15</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703150800 +0800" stop="20260703155700 +0800">
+		<title lang="zh">川流16</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703155700 +0800" stop="20260703161600 +0800">
+		<title lang="zh">汉字解密</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703161600 +0800" stop="20260703164100 +0800">
+		<title lang="zh">海岸秘境</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703164100 +0800" stop="20260703170900 +0800">
+		<title lang="zh">逐梦深蓝</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703170900 +0800" stop="20260703173500 +0800">
+		<title lang="zh">校长说</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703173500 +0800" stop="20260703174800 +0800">
+		<title lang="zh">小白帆乐园（一）</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703174800 +0800" stop="20260703180000 +0800">
+		<title lang="zh">小白帆乐园（二）</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703180000 +0800" stop="20260703182300 +0800">
+		<title lang="zh">小白帆大舞台</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703182300 +0800" stop="20260703190000 +0800">
+		<title lang="zh">小白帆乐园（三）</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703190000 +0800" stop="20260703192300 +0800">
+		<title lang="zh">青岛教育新闻</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703192300 +0800" stop="20260703200000 +0800">
+		<title lang="zh">名师导学</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703200000 +0800" stop="20260703202800 +0800">
+		<title lang="zh">直通高考</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703202800 +0800" stop="20260703205700 +0800">
+		<title lang="zh">直通高考</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703205700 +0800" stop="20260703213000 +0800">
+		<title lang="zh">直通高考</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703213000 +0800" stop="20260703220400 +0800">
+		<title lang="zh">青岛教育新闻</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703220400 +0800" stop="20260703225500 +0800">
+		<title lang="zh">教育新观察</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703225500 +0800" stop="20260703233200 +0800">
+		<title lang="zh">筑梦百年07</title>
+	</programme>
+	<programme channel="青岛tv6" start="20260703233200 +0800" stop="20260703235900 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
 	<channel id="青海卫视">
 		<display-name lang="zh">青海卫视</display-name>
 	</channel>
@@ -59343,6 +59766,12 @@
 	<programme channel="newtv超级综艺" start="20260703111100 +0800" stop="20260703124100 +0800">
 		<title lang="zh">味你而来</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260703124100 +0800" stop="20260703143000 +0800">
+		<title lang="zh">国家宝藏 展演季</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260703143000 +0800" stop="20260703172200 +0800">
+		<title lang="zh">中国唱将</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59360,6 +59789,15 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260703093000 +0800" stop="20260703133000 +0800">
 		<title lang="zh">2026世界杯-1/16决赛(瑞士-阿尔及利亚)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260703133000 +0800" stop="20260703140500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260703140500 +0800" stop="20260703150500 +0800">
+		<title lang="zh">实况录像-WTT美国大满贯2026(录播)4</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260703150500 +0800" stop="20260703180000 +0800">
+		<title lang="zh">实况录像-2026世界杯 1/16决赛(录播)5</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -59387,6 +59825,15 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260703105500 +0800" stop="20260703122300 +0800">
 		<title lang="zh">疯颠和尚之再续前缘</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260703122300 +0800" stop="20260703132700 +0800">
+		<title lang="zh">烈火营救</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260703132700 +0800" stop="20260703150300 +0800">
+		<title lang="zh">特种兵归来之绝地营救</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260703150300 +0800" stop="20260703164400 +0800">
+		<title lang="zh">游侠</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59438,6 +59885,18 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260703113700 +0800" stop="20260703122200 +0800">
 		<title lang="zh">41_兰陵王</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260703122200 +0800" stop="20260703130700 +0800">
+		<title lang="zh">42_兰陵王</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260703130700 +0800" stop="20260703134500 +0800">
+		<title lang="zh">32_你是我的荣耀</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260703134500 +0800" stop="20260703143100 +0800">
+		<title lang="zh">01_美人心计</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260703143100 +0800" stop="20260703151800 +0800">
+		<title lang="zh">02_美人心计</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60041,6 +60500,21 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260703114200 +0800" stop="20260703121700 +0800">
 		<title lang="zh">糖力宁植物胰岛素胶囊-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260703121700 +0800" stop="20260703130100 +0800">
+		<title lang="zh">19_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260703130100 +0800" stop="20260703134600 +0800">
+		<title lang="zh">德国进口戴维森固节葆骨肌健康组-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260703134600 +0800" stop="20260703143100 +0800">
+		<title lang="zh">20_谍战深海之惊蛰[DVD版]</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260703143100 +0800" stop="20260703150600 +0800">
+		<title lang="zh">TEWYOL远红外前列腺理疗贴-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260703150600 +0800" stop="20260703155000 +0800">
+		<title lang="zh">21_谍战深海之惊蛰[DVD版]</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
