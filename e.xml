@@ -16155,6 +16155,12 @@
 	<programme channel="咪咕综合体育" start="20260725012000 +0800" stop="20260725033000 +0800">
 		<title lang="zh">UFC格斗之夜272期 主赛</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260725033500 +0800" stop="20260725035500 +0800">
+		<title lang="zh">超级主队b7卫冕征途第一集</title>
+	</programme>
+	<programme channel="咪咕综合体育" start="20260725040000 +0800" stop="20260725063500 +0800">
+		<title lang="zh">一杆定音-2026斯诺克世锦赛 决赛 肖恩b7墨菲-吴宜泽 第三阶段</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -16163,6 +16169,18 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260725014000 +0800" stop="20260725015000 +0800">
 		<title lang="zh">频道宣传</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260725015000 +0800" stop="20260725021000 +0800">
+		<title lang="zh">荣耀之路</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260725022000 +0800" stop="20260725035500 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第24轮 香港金牛-张家口体文旅</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260725040500 +0800" stop="20260725044000 +0800">
+		<title lang="zh">西班牙篮球黄金一代04 打败法国队吧</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260725045000 +0800" stop="20260725063000 +0800">
+		<title lang="zh">我爱女篮-25/26WCBA常规赛 第7轮 上海浦发银行-江苏南钢</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -21395,6 +21413,117 @@
 	</programme>
 	<programme channel="崇左综合" start="20260725232400 +0800" stop="20260725235900 +0800">
 		<title lang="zh">午夜剧场</title>
+	</programme>
+	<channel id="常州新闻">
+		<display-name lang="zh">常州新闻</display-name>
+	</channel>
+	<programme channel="常州新闻" start="20260725060000 +0800" stop="20260725063000 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725063000 +0800" stop="20260725070000 +0800">
+		<title lang="zh">传奇</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725070000 +0800" stop="20260725070100 +0800">
+		<title lang="zh">国歌</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725070100 +0800" stop="20260725073200 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725073200 +0800" stop="20260725081000 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725081000 +0800" stop="20260725090000 +0800">
+		<title lang="zh">冷暖人间20分</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725090000 +0800" stop="20260725093000 +0800">
+		<title lang="zh">生活369</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725093000 +0800" stop="20260725103000 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725103000 +0800" stop="20260725111500 +0800">
+		<title lang="zh">养生堂</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725111500 +0800" stop="20260725113500 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725113500 +0800" stop="20260725114500 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725114500 +0800" stop="20260725120000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725120000 +0800" stop="20260725123000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725123000 +0800" stop="20260725125000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725125000 +0800" stop="20260725133000 +0800">
+		<title lang="zh">世界多美丽</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725133000 +0800" stop="20260725145000 +0800">
+		<title lang="zh">活力剧场1</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725145000 +0800" stop="20260725160000 +0800">
+		<title lang="zh">活力剧场2</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725160000 +0800" stop="20260725161000 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725161000 +0800" stop="20260725163000 +0800">
+		<title lang="zh">动画片</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725163000 +0800" stop="20260725164000 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725164000 +0800" stop="20260725171000 +0800">
+		<title lang="zh">我是大医生</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725171000 +0800" stop="20260725172300 +0800">
+		<title lang="zh">广告专题</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725172300 +0800" stop="20260725172400 +0800">
+		<title lang="zh">节目预告</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725172400 +0800" stop="20260725180000 +0800">
+		<title lang="zh">奇趣大自然</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725180000 +0800" stop="20260725183000 +0800">
+		<title lang="zh">人文中国</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725183000 +0800" stop="20260725190000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725190000 +0800" stop="20260725193300 +0800">
+		<title lang="zh">转播央视新闻联播</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725193300 +0800" stop="20260725194000 +0800">
+		<title lang="zh">天气预报</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725194000 +0800" stop="20260725203000 +0800">
+		<title lang="zh">黄金剧场(1)</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725203000 +0800" stop="20260725212000 +0800">
+		<title lang="zh">黄金剧场(2)</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725212000 +0800" stop="20260725215000 +0800">
+		<title lang="zh">常州新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725215000 +0800" stop="20260725220000 +0800">
+		<title lang="zh">常州高新区新闻</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725220000 +0800" stop="20260725221500 +0800">
+		<title lang="zh">联播常州</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725221500 +0800" stop="20260725223000 +0800">
+		<title lang="zh">常州金融观察</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725223000 +0800" stop="20260725231500 +0800">
+		<title lang="zh">社会写真</title>
+	</programme>
+	<programme channel="常州新闻" start="20260725231500 +0800" stop="20260725060000 +0800">
+		<title lang="zh">结束</title>
 	</programme>
 	<channel id="平顶山1新闻综合">
 		<display-name lang="zh">平顶山1新闻综合</display-name>
@@ -38679,6 +38808,96 @@
 	<programme channel="翡翠台" start="20260725053500 +0800" stop="20260725060000 +0800">
 		<title lang="zh">瘋狂歷史補習社[粵]</title>
 	</programme>
+	<programme channel="翡翠台" start="20260725060000 +0800" stop="20260725074500 +0800">
+		<title lang="zh">香港早晨[粵] 及 環球新聞檔案[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725074500 +0800" stop="20260725090000 +0800">
+		<title lang="zh">香港早晨[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725090000 +0800" stop="20260725113000 +0800">
+		<title lang="zh">嘉里世界劍擊錦標賽2026 中國香港[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725113000 +0800" stop="20260725120000 +0800">
+		<title lang="zh">仨心友行 3[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725120000 +0800" stop="20260725123000 +0800">
+		<title lang="zh">豪遊咖啡[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725123000 +0800" stop="20260725130000 +0800">
+		<title lang="zh">周六聊Teen谷[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725130000 +0800" stop="20260725131500 +0800">
+		<title lang="zh">午間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725131500 +0800" stop="20260725132500 +0800">
+		<title lang="zh">伯樂音樂學院20週年呈獻：J Music[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725132500 +0800" stop="20260725142000 +0800">
+		<title lang="zh">開心大綜藝之暑假玩到盡[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725142000 +0800" stop="20260725145500 +0800">
+		<title lang="zh">尋找世界另一個我 台灣篇[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725145500 +0800" stop="20260725152500 +0800">
+		<title lang="zh">尋找世界另一個我 台灣篇[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725152500 +0800" stop="20260725155500 +0800">
+		<title lang="zh">地球大神秘[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725155500 +0800" stop="20260725160000 +0800">
+		<title lang="zh">勁歌推介[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725160000 +0800" stop="20260725163000 +0800">
+		<title lang="zh">魔神創造傳[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725163000 +0800" stop="20260725170000 +0800">
+		<title lang="zh">Hands Up[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725170000 +0800" stop="20260725171500 +0800">
+		<title lang="zh">查查林部隊[粵/英]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725171500 +0800" stop="20260725173000 +0800">
+		<title lang="zh">查查林部隊[粵/英]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725173000 +0800" stop="20260725180000 +0800">
+		<title lang="zh">安妮的童話[粵/日]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725180000 +0800" stop="20260725183000 +0800">
+		<title lang="zh">野性四季：珍稀野生動物在中國[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725183000 +0800" stop="20260725185500 +0800">
+		<title lang="zh">六點半新聞報道[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725185500 +0800" stop="20260725190000 +0800">
+		<title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725190000 +0800" stop="20260725193000 +0800">
+		<title lang="zh">新聞透視[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725193000 +0800" stop="20260725193500 +0800">
+		<title lang="zh">好嘢港多啲[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725193500 +0800" stop="20260725200000 +0800">
+		<title lang="zh">東張西望[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725200000 +0800" stop="20260725203000 +0800">
+		<title lang="zh">渣打夥拍保誠攜手傳承：家傳之「保」2[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725203000 +0800" stop="20260725213000 +0800">
+		<title lang="zh">AlipayHK 呈獻：唱錢[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725213000 +0800" stop="20260725220000 +0800">
+		<title lang="zh">永遠瀟灑的四哥 謝賢[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725220000 +0800" stop="20260725221500 +0800">
+		<title lang="zh">晚間新聞[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725221500 +0800" stop="20260725222000 +0800">
+		<title lang="zh">農本方參苓白朮散呈獻:天氣報告[粵]</title>
+	</programme>
+	<programme channel="翡翠台" start="20260725222000 +0800" stop="20260725235900 +0800">
+		<title lang="zh">永遠瀟灑的謝賢：殺出個黃昏[粵][PG]</title>
+	</programme>
 	<channel id="肇庆新闻">
 		<display-name lang="zh">肇庆新闻</display-name>
 	</channel>
@@ -50418,6 +50637,15 @@
 	<programme channel="newtv超级综艺" start="20260725012100 +0800" stop="20260725020600 +0800">
 		<title lang="zh">18_玫瑰的故事</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260725020600 +0800" stop="20260725025200 +0800">
+		<title lang="zh">19_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260725025200 +0800" stop="20260725033700 +0800">
+		<title lang="zh">20_玫瑰的故事</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260725033700 +0800" stop="20260725053100 +0800">
+		<title lang="zh">影视留声机</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50427,11 +50655,26 @@
 	<programme channel="newtv超级体育" start="20260725010600 +0800" stop="20260725023600 +0800">
 		<title lang="zh">实况录像-2026世界杯 1/8决赛 墨西哥队-英格兰队</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260725023600 +0800" stop="20260725040000 +0800">
+		<title lang="zh">实况录像-2025/2026赛季中国男子篮球职业联赛 总决赛 5</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260725040000 +0800" stop="20260725060000 +0800">
+		<title lang="zh">实况录像-2026年汤姆斯杯羽毛球赛 半决赛</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
 	<programme channel="newtv超级电影" start="20260725004800 +0800" stop="20260725020600 +0800">
 		<title lang="zh">冰火凤</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260725020600 +0800" stop="20260725032100 +0800">
+		<title lang="zh">齐天大圣b7无双</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260725032100 +0800" stop="20260725045000 +0800">
+		<title lang="zh">时速72</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260725045000 +0800" stop="20260725060100 +0800">
+		<title lang="zh">封神榜：托塔天王</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -50441,6 +50684,18 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260725012300 +0800" stop="20260725020800 +0800">
 		<title lang="zh">31_扫毒风暴</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725020800 +0800" stop="20260725025400 +0800">
+		<title lang="zh">32_扫毒风暴</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725025400 +0800" stop="20260725033900 +0800">
+		<title lang="zh">33_扫毒风暴</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725033900 +0800" stop="20260725042500 +0800">
+		<title lang="zh">01_刑警的日子</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725042900 +0800" stop="20260725051400 +0800">
+		<title lang="zh">24_包青天之七侠五义</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -50999,6 +51254,21 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260725013100 +0800" stop="20260725021500 +0800">
 		<title lang="zh">32_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725021500 +0800" stop="20260725025900 +0800">
+		<title lang="zh">33_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725025900 +0800" stop="20260725032900 +0800">
+		<title lang="zh">鲁韵梁山酒好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725032900 +0800" stop="20260725041300 +0800">
+		<title lang="zh">34_秋蝉</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725041300 +0800" stop="20260725044300 +0800">
+		<title lang="zh">紫苏牛肉酱好物推荐</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725044300 +0800" stop="20260725052600 +0800">
+		<title lang="zh">35_秋蝉</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
