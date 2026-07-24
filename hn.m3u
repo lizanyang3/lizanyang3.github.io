@@ -65,7 +65,7 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227514/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.lizanyang.top/tv/CCTV1.png" group-title="央视",CCTV1
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227491/1.m3u8?fmt=ts2hls
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227524/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.lizanyang.top/tv/CCTV2.png" group-title="央视",CCTV2
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226970/1.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.lizanyang.top/tv/CCTV3.png" group-title="央视",CCTV3
