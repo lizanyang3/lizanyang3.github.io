@@ -17676,6 +17676,12 @@
 	<programme channel="咪咕足球" start="20260725104500 +0800" stop="20260725114500 +0800">
 		<title lang="zh">超级三对三-2026超三联赛</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260725120500 +0800" stop="20260725133500 +0800">
+		<title lang="zh">中国篮球时刻-2026国际篮联U17男篮世界杯_立陶宛U17男篮-中国U17男篮</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260725135000 +0800" stop="20260725144000 +0800">
+		<title lang="zh">最后之舞09</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59691,6 +59697,12 @@
 	<programme channel="newtv超级综艺" start="20260725100100 +0800" stop="20260725115400 +0800">
 		<title lang="zh">乐在旅途 第三季</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260725115400 +0800" stop="20260725132400 +0800">
+		<title lang="zh">味你而来</title>
+	</programme>
+	<programme channel="newtv超级综艺" start="20260725132400 +0800" stop="20260725144100 +0800">
+		<title lang="zh">全民畅舞</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59724,6 +59736,15 @@
 	<programme channel="newtv超级体育" start="20260725103100 +0800" stop="20260725120000 +0800">
 		<title lang="zh">2026年国际篮联U17世界杯-决赛(4K)</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260725120000 +0800" stop="20260725123500 +0800">
+		<title lang="zh">体坛快讯</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260725123500 +0800" stop="20260725125900 +0800">
+		<title lang="zh">艺术里的奥林匹克(4K)</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260725125900 +0800" stop="20260725150000 +0800">
+		<title lang="zh">2026年温布尔登网球锦标赛-男单半决赛(4K)</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59750,6 +59771,12 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260725095900 +0800" stop="20260725112700 +0800">
 		<title lang="zh">我们的黄金年代</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260725112700 +0800" stop="20260725125800 +0800">
+		<title lang="zh">尼斯湖怪</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260725125800 +0800" stop="20260725143300 +0800">
+		<title lang="zh">洛克海特的遗物</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59795,6 +59822,18 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260725104200 +0800" stop="20260725112000 +0800">
 		<title lang="zh">01_证词</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725112000 +0800" stop="20260725115900 +0800">
+		<title lang="zh">02_证词</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725115900 +0800" stop="20260725123800 +0800">
+		<title lang="zh">03_证词</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725123800 +0800" stop="20260725131700 +0800">
+		<title lang="zh">04_证词</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260725131700 +0800" stop="20260725140200 +0800">
+		<title lang="zh">08_亲爱的，你在哪里</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
@@ -60395,6 +60434,18 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260725104600 +0800" stop="20260725112100 +0800">
 		<title lang="zh">RINEWANN经典蚝式钻石机械腕表-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725112100 +0800" stop="20260725120700 +0800">
+		<title lang="zh">16_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725120700 +0800" stop="20260725124700 +0800">
+		<title lang="zh">火菲尔微压蒸炒纯钛锅-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725124700 +0800" stop="20260725133300 +0800">
+		<title lang="zh">17_无间</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260725133300 +0800" stop="20260725140300 +0800">
+		<title lang="zh">国药特医九制黄精超值组-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
