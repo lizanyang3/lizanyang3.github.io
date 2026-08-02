@@ -17517,6 +17517,9 @@
 	<programme channel="咪咕足球" start="20260802165000 +0800" stop="20260802170000 +0800">
 		<title lang="zh">频道宣传</title>
 	</programme>
+	<programme channel="咪咕足球" start="20260802170000 +0800" stop="20260802183000 +0800">
+		<title lang="zh">NBL城燃之战-25/26赛季 常规赛第25轮 安徽皖江龙-上海玄鸟</title>
+	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
 	</channel>
@@ -59625,6 +59628,9 @@
 	<programme channel="newtv超级体育" start="20260802150000 +0800" stop="20260802170000 +0800">
 		<title lang="zh">2026年世界男排联赛总决赛-三,四名决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20260802170000 +0800" stop="20260802180000 +0800">
+		<title lang="zh">2026年蹦床世界杯-科英布拉站</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -59663,6 +59669,9 @@
 	</programme>
 	<programme channel="newtv超级电影" start="20260802154800 +0800" stop="20260802165900 +0800">
 		<title lang="zh">极速风云</title>
+	</programme>
+	<programme channel="newtv超级电影" start="20260802165900 +0800" stop="20260802185200 +0800">
+		<title lang="zh">一个男人和一个女人</title>
 	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
@@ -59732,6 +59741,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260802161900 +0800" stop="20260802170500 +0800">
 		<title lang="zh">11_纯真年代的爱情</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260802170500 +0800" stop="20260802175000 +0800">
+		<title lang="zh">12_纯真年代的爱情</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
