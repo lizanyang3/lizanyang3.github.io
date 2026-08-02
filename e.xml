@@ -17445,6 +17445,9 @@
 	<programme channel="咪咕综合体育" start="20260802140000 +0800" stop="20260802164500 +0800">
 		<title lang="zh">一杆定音-2026斯诺克上海大师赛 决赛 第一阶段 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260802165000 +0800" stop="20260802171500 +0800">
+		<title lang="zh">欧陆足球版图-英超特辑</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -17510,6 +17513,9 @@
 	</programme>
 	<programme channel="咪咕足球" start="20260802155000 +0800" stop="20260802165000 +0800">
 		<title lang="zh">中国榜样</title>
+	</programme>
+	<programme channel="咪咕足球" start="20260802165000 +0800" stop="20260802170000 +0800">
+		<title lang="zh">频道宣传</title>
 	</programme>
 	<channel id="四大名著剧场">
 		<display-name lang="zh">四大名著剧场</display-name>
@@ -60350,6 +60356,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20260802162000 +0800" stop="20260802165100 +0800">
 		<title lang="zh">保罗麦克牛皮凉席</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20260802165100 +0800" stop="20260802173500 +0800">
+		<title lang="zh">20_黎明决战</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
