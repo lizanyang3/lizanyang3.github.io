@@ -50058,6 +50058,9 @@
 	<programme channel="newtv超级综艺" start="20260803101000 +0800" stop="20260803112700 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260803112700 +0800" stop="20260803130200 +0800">
+		<title lang="zh">此生要去的100个地方</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -50115,6 +50118,9 @@
 	<programme channel="newtv超级电影" start="20260803100300 +0800" stop="20260803113400 +0800">
 		<title lang="zh">暗影2</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20260803113400 +0800" stop="20260803125200 +0800">
+		<title lang="zh">尖峰对决之古墓神兵</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -50162,6 +50168,9 @@
 	</programme>
 	<programme channel="newtv超级电视剧" start="20260803103800 +0800" stop="20260803112400 +0800">
 		<title lang="zh">14_问心</title>
+	</programme>
+	<programme channel="newtv超级电视剧" start="20260803112400 +0800" stop="20260803121000 +0800">
+		<title lang="zh">15_问心</title>
 	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
