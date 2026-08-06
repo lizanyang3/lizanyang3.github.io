@@ -17733,6 +17733,9 @@
 	<programme channel="咪咕综合体育" start="20260806153000 +0800" stop="20260806200000 +0800">
 		<title lang="zh">国球荣耀-2026WTT横滨冠军赛 男女单打1/8决赛1 直播</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20260806200000 +0800" stop="20260806200500 +0800">
+		<title lang="zh">频道宣传</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -59325,6 +59328,9 @@
 	<programme channel="newtv超级综艺" start="20260806184000 +0800" stop="20260806195700 +0800">
 		<title lang="zh">星光大道</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20260806195700 +0800" stop="20260806211400 +0800">
+		<title lang="zh">越战越勇</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -59378,6 +59384,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20260806183000 +0800" stop="20260806200000 +0800">
 		<title lang="zh">WTT横滨冠军赛1/8决赛1</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20260806200000 +0800" stop="20260806210000 +0800">
+		<title lang="zh">足球之夜</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
